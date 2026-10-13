@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Watcher</title>
+<style>
+  :root { --bg:#f6f7f9; --card:#fff; --fg:#1b1f24; --muted:#6b7280; --line:#e5e7eb; --accent:#2563eb; --ok:#15803d; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#0f1115; --card:#181b21; --fg:#e6e8eb; --muted:#9aa3af; --line:#2a2f38; --accent:#60a5fa; --ok:#4ade80; } }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg); font:15px/1.5 system-ui,sans-serif; }
+  main { max-width:960px; margin:0 auto; padding:16px; }
+  h1 { font-size:20px; margin:8px 0 16px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px; margin-bottom:14px; }
+  .row { display:flex; flex-wrap:wrap; gap:10px; align-items:end; }
+  label { display:flex; flex-direction:column; font-size:12px; color:var(--muted); gap:3px; }
+  input, select, textarea, button { font:inherit; color:inherit; background:var(--bg); border:1px solid var(--line); border-radius:6px; padding:6px 9px; }
+  textarea { width:100%; min-height:110px; }
+  button { cursor:pointer; background:var(--accent); color:#fff; border-color:var(--accent); }
+  button.ghost { background:transparent; color:var(--fg); border-color:var(--line); }
+  .muted { color:var(--muted); font-size:13px; }
+  .stats { display:flex; flex-wrap:wrap; gap:6px; margin:8px 0; }
+  .chip { font-size:12px; border:1px solid var(--line); border-radius:99px; padding:1px 9px; }
+  .chip.ok { color:var(--ok); border-color:var(--ok); }
+  .job h3 { margin:0; font-size:16px; }
+  .job p { white-space:pre-wrap; margin:6px 0; max-height:7.5em; overflow:auto; }
+  .grow { flex:1; min-width:140px; }
+  .grow input { width:100%; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Job Watcher</h1>
+
+  <section class="card">
+    <div class="row">
+      <label>Provider <select id="provider"></select></label>
+      <label class="grow">Feed URL (rss provider) <input id="feedUrl" placeholder="https://…/feed.rss"></label>
+      <label class="grow">Keywords (comma separated, optional) <input id="keywords" placeholder="react, python"></label>
+      <label>Every (minutes) <input id="intervalMinutes" type="number" min="1" style="width:90px"></label>
+      <label style="flex-direction:row;align-items:center;gap:6px"><input id="enabled" type="checkbox"> Schedule on</label>
+      <button id="save">Save</button>
+      <button id="run" class="ghost">Run now</button>
+    </div>
+    <div class="muted" id="status" style="margin-top:8px"></div>
+  </section>
+
+  <section class="card row">
+    <label class="grow">Search <input id="q" placeholder="title, content, skills"></label>
+    <label>Show <select id="applied"><option value="">All</option><option value="0">Not applied</option><option value="1">Applied</option></select></label>
+  </section>
+
+  <div id="jobs"></div>
+</main>
+
+<script>
+const $ = (id) => document.getElementById(id);
+const api = async (path, opts = {}) => {
+  const r = await fetch(path, { headers: { 'content-type': 'application/json' }, ...opts, body: opts.body && JSON.stringify(opts.body) });
+  const d = await r.json();
+  if (!r.ok) throw new Error(d.error || r.statusText);
+  return d;
+};
+const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]));
+const chip = (label, v, cls = '') => v == null || v === '' ? '' : `<span class="chip ${cls}">${esc(label)}: ${esc(v)}</span>`;
+
+async function loadSettings() {
+  const d = await api('/api/settings');
+  $('provider').innerHTML = d.providers.map((p) => `<option>${esc(p)}</option>`).join('');
+  const s = d.settings;
+  $('provider').value = s.provider; $('feedUrl').value = s.feedUrl; $('keywords').value = s.keywords;
+  $('intervalMinutes').value = s.intervalMinutes; $('enabled').checked = s.enabled;
+  const runs = await api('/api/runs');
+  const last = runs[0];
+  $('status').textContent =
+    (s.enabled ? `Next run: ${d.nextRunAt ? new Date(d.nextRunAt).toLocaleString() : '—'}. ` : 'Scheduler is off. ') +
+    (last ? `Last run: ${last.error ? 'failed – ' + last.error : `${last.fetched} fetched, ${last.added} new`}.` : 'No runs yet.');
+}
+
+async function loadJobs() {
+  const qs = new URLSearchParams({ q: $('q').value, applied: $('applied').value });
+  const jobs = await api('/api/jobs?' + qs);
+  $('jobs').innerHTML = jobs.map((j) => `
+    <article class="card job" data-id="${j.id}">
+      <h3>${j.url ? `<a href="${esc(j.url)}" target="_blank" rel="noopener noreferrer">${esc(j.title)}</a>` : esc(j.title)}
+        ${j.application_id ? '<span class="chip ok">applied</span>' : ''}</h3>
+      <div class="muted">${esc(j.posted_at ? new Date(j.posted_at).toLocaleString() : '')} ${esc(j.budget || '')} ${esc(j.skills || '')}</div>
+      <p>${esc(j.content)}</p>
+      <div class="stats"><b class="muted">Client</b>
+        ${chip('Country', j.client_country)}${chip('Rating', j.client_rating)}${chip('Reviews', j.client_reviews)}
+        ${chip('Spent', j.client_total_spent != null ? '$' + Math.round(j.client_total_spent).toLocaleString() : null)}
+        ${chip('Hire rate', j.client_hire_rate != null ? j.client_hire_rate + '%' : null)}${chip('Jobs posted', j.client_jobs_posted)}
+        ${j.client_payment_verified == null ? '' : chip('Payment', j.client_payment_verified ? 'verified' : 'unverified', j.client_payment_verified ? 'ok' : '')}
+      </div>
+      <details ${j.application_id ? 'open' : ''}><summary>${j.application_id ? 'Your proposal' : 'Apply / save proposal'}</summary>
+        <textarea placeholder="Proposal text">${esc(j.proposal || '')}</textarea>
+        <div class="row" style="margin-top:6px">
+          <label>Bid <input type="number" step="any" class="bid" value="${esc(j.bid_amount ?? '')}" style="width:100px"></label>
+          <label>Status <select class="st">${['applied','interview','hired','declined'].map((s) => `<option ${s === (j.application_status || 'applied') ? 'selected' : ''}>${s}</option>`).join('')}</select></label>
+          <button class="saveApp">Save proposal</button>
+          ${j.application_id ? '<button class="ghost delApp">Remove</button>' : ''}
+        </div>
+      </details>
+    </article>`).join('') || '<p class="muted">No jobs yet. Click “Run now” or turn the scheduler on.</p>';
+}
+
+$('save').onclick = async () => {
+  try {
+    await api('/api/settings', { method: 'PUT', body: {
+      provider: $('provider').value, feedUrl: $('feedUrl').value, keywords: $('keywords').value,
+      intervalMinutes: $('intervalMinutes').value, enabled: $('enabled').checked } });
+    await loadSettings();
+  } catch (e) { alert(e.message); }
+};
+$('run').onclick = async () => {
+  $('run').disabled = true;
+  try { await api('/api/run', { method: 'POST' }); } finally { $('run').disabled = false; }
+  await Promise.all([loadSettings(), loadJobs()]);
+};
+$('q').oninput = $('applied').onchange = loadJobs;
+$('jobs').onclick = async (ev) => {
+  const art = ev.target.closest('article'); if (!art) return;
+  const id = art.dataset.id;
+  try {
+    if (ev.target.classList.contains('saveApp')) {
+      await api(`/api/jobs/${id}/application`, { method: 'PUT', body: {
+        proposal: art.querySelector('textarea').value, bidAmount: art.querySelector('.bid').value, status: art.querySelector('.st').value } });
+    } else if (ev.target.classList.contains('delApp')) {
+      await api(`/api/jobs/${id}/application`, { method: 'DELETE' });
+    } else return;
+    loadJobs();
+  } catch (e) { alert(e.message); }
+};
+loadSettings(); loadJobs();
+setInterval(() => { loadSettings(); if (!document.activeElement?.closest('textarea')) loadJobs(); }, 60000);
+</script>
+</body>
+</html>
