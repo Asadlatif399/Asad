@@ -105,12 +105,14 @@ header.site.hide{transform:translateY(-110%)}
 .progress{position:fixed;left:0;top:env(safe-area-inset-top,0px);height:2px;width:100%;transform-origin:0 50%;transform:scaleX(0);background:linear-gradient(90deg,transparent,var(--accent));z-index:95;pointer-events:none}
 
 /* hero */
-.hero{position:relative;margin-top:-84px;padding-block:calc(84px + clamp(40px,7vw,96px)) clamp(56px,8vw,110px);min-height:100svh;display:flex;align-items:center}
+.hero{position:relative;margin-top:-84px;padding-block:calc(84px + clamp(24px,3.5vw,52px)) clamp(40px,5vw,72px);min-height:min(100svh,820px);display:flex;align-items:center}
 .hero-glow{position:absolute;inset:0;pointer-events:none;background:radial-gradient(520px circle at var(--gx,70%) var(--gy,35%),var(--glow-a),transparent 62%),radial-gradient(900px 600px at 85% 10%,var(--glow-b),transparent 60%),radial-gradient(700px 500px at 0% 100%,var(--glow-c),transparent 60%)}
 .hero-grid{position:relative;z-index:1;width:100%;display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr);gap:clamp(24px,5vw,72px);align-items:center}
 @media (max-width:960px){.hero-grid{grid-template-columns:minmax(0,1fr)}.hero{min-height:0}}
 .hero-glow{overflow:hidden;-webkit-mask-image:linear-gradient(#000 62%,transparent);mask-image:linear-gradient(#000 62%,transparent)}
-.hero-copy{display:flex;flex-direction:column;gap:30px;min-width:0}
+.hero-copy{display:flex;flex-direction:column;gap:20px;min-width:0}
+.hero h1{font-size:clamp(2.2rem,4.2vw,3.8rem);line-height:1.04}
+.hero .lead{font-size:clamp(1rem,1.25vw,1.12rem)}
 .ln{display:block;overflow:hidden;padding-bottom:.08em}
 .ln>span{display:block}
 .hero .lead{max-width:46ch}
