@@ -263,10 +263,70 @@ footer a:hover{color:#fff}
 .prose{max-width:720px;display:flex;flex-direction:column;gap:18px}
 .prose h2{font-size:1.4rem;margin-top:14px}
 .prose ul{margin:0;padding-left:20px;color:var(--ink)}
-@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important;scroll-behavior:auto!important}}
+/* motion */
+@keyframes rise{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes pop{from{transform:scale(0)}to{transform:none}}
+@keyframes grow{from{transform:scaleX(0)}}
+@keyframes drift{to{transform:translate(-80px,70px) scale(1.18)}}
+@keyframes shimmer{from{background-position:120% 0}to{background-position:-100% 0}}
+@keyframes marquee{to{transform:translateX(-50%)}}
+@keyframes draw{to{stroke-dashoffset:0}}
+.progress{position:fixed;left:0;top:env(safe-area-inset-top,0px);height:3px;width:100%;transform-origin:0 50%;transform:scaleX(0);background:linear-gradient(90deg,var(--gold),var(--accent));z-index:70;pointer-events:none}
+header.site{transition:box-shadow .3s}
+header.site.scrolled{box-shadow:0 12px 30px -20px rgba(11,37,64,.5)}
+[data-page].page-in{animation:fade .55s both}
+.hero-band::before{content:"";position:absolute;width:560px;height:560px;right:-140px;top:-180px;border-radius:50%;background:radial-gradient(circle,rgba(224,172,74,.24),transparent 65%);filter:blur(12px);animation:drift 16s ease-in-out infinite alternate;pointer-events:none}
+.hero .stack>*{animation:rise .85s cubic-bezier(.2,.7,.2,1) both}
+.hero .stack>*:nth-child(1){animation-delay:.05s}
+.hero .stack>*:nth-child(2){animation-delay:.18s}
+.hero .stack>*:nth-child(3){animation-delay:.32s}
+.hero .stack>*:nth-child(4){animation-delay:.46s}
+.hero h1 em{background:linear-gradient(100deg,var(--gold) 20%,#FFF1CB 45%,var(--gold) 70%);background-size:220% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:shimmer 5.5s 1.6s ease-in-out infinite}
+.tracker{animation:rise .95s .3s cubic-bezier(.2,.7,.2,1) both}
+.tbar{height:4px;border-radius:4px;background:rgba(255,255,255,.12);margin-top:14px;overflow:hidden}
+.tbar i{display:block;height:100%;width:58%;background:linear-gradient(90deg,var(--gold),#F6D58C);border-radius:4px;transform-origin:0 50%;animation:grow 1.5s .6s cubic-bezier(.2,.7,.2,1) both}
+.t-step{animation:rise .6s cubic-bezier(.2,.7,.2,1) both;animation-delay:calc(.55s + var(--i,0) * .12s)}
+.t-step .dot.done{animation:pop .5s cubic-bezier(.3,1.6,.5,1) calc(.75s + var(--i,0) * .12s) both}
+.btn.primary,.btn.gold{position:relative;overflow:hidden}
+.btn.primary::after,.btn.gold::after{content:"";position:absolute;inset:0;background:linear-gradient(110deg,transparent 30%,rgba(255,255,255,.35) 50%,transparent 70%);transform:translateX(-120%);pointer-events:none}
+.btn.primary:hover::after,.btn.gold:hover::after{transform:translateX(120%);transition:transform .7s}
+.svc,.post-card{position:relative;overflow:hidden}
+.svc::before,.post-card::before{content:"";position:absolute;inset:0;background:radial-gradient(340px circle at var(--mx,50%) var(--my,50%),rgba(224,172,74,.16),transparent 60%);opacity:0;transition:opacity .3s;pointer-events:none}
+.svc:hover::before,.post-card:hover::before{opacity:1}
+.icon{transition:transform .35s cubic-bezier(.3,1.4,.5,1)}
+.svc:hover .icon{transform:translateY(-3px) rotate(-4deg) scale(1.08)}
+input:focus,select:focus,textarea:focus{box-shadow:0 0 0 4px rgba(224,172,74,.22)}
+.pre{opacity:0;transform:translateY(28px)}
+.pre.in{opacity:1;transform:none;transition:opacity .85s cubic-bezier(.2,.7,.2,1),transform .85s cubic-bezier(.2,.7,.2,1);transition-delay:var(--d,0s)}
+.steps.pl::before{transform:scaleX(0);transform-origin:0 50%}
+.steps.pl.in::before{transform:none;transition:transform 1.5s cubic-bezier(.2,.7,.2,1)}
+@media (max-width:900px){.steps.pl::before{transform:scaleY(0);transform-origin:50% 0}}
+.step .n{transition:background .3s,color .3s,transform .3s}
+.step:hover .n{background:var(--accent);color:var(--bg);transform:scale(1.1)}
+.verdict{transition:background .3s,border-color .3s}
+#postGrid .post-card{animation:rise .6s cubic-bezier(.2,.7,.2,1) both}
+#postGrid .post-card:nth-child(2){animation-delay:.07s}
+#postGrid .post-card:nth-child(3){animation-delay:.14s}
+#postGrid .post-card:nth-child(4){animation-delay:.21s}
+#postGrid .post-card:nth-child(5){animation-delay:.28s}
+.article>*{animation:rise .6s cubic-bezier(.2,.7,.2,1) both}
+.article>*:nth-child(2){animation-delay:.06s}
+.article>*:nth-child(3){animation-delay:.12s}
+.article>*:nth-child(4){animation-delay:.18s}
+.success .tick{animation:pop .55s cubic-bezier(.3,1.6,.5,1) both}
+.success .tick path{stroke-dasharray:30;stroke-dashoffset:30;animation:draw .55s .25s ease-out forwards}
+.success>*:not(.tick){animation:rise .6s .2s cubic-bezier(.2,.7,.2,1) both}
+.ticker{overflow:hidden;background:var(--wash);border-bottom:1px solid var(--line);padding:18px 0}
+.ticker-track{display:flex;width:max-content;animation:marquee 40s linear infinite}
+.ticker:hover .ticker-track{animation-play-state:paused}
+.ticker-track span{display:flex;align-items:center;gap:56px;padding-right:56px;font-family:var(--display);font-style:italic;font-size:1.2rem;color:var(--muted);white-space:nowrap}
+.ticker-track span::after{content:"\25C6";font-style:normal;font-size:.55rem;color:var(--accent)}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important;scroll-behavior:auto!important}.success .tick path{stroke-dashoffset:0}.ticker-track{width:auto;flex-wrap:wrap;justify-content:center;padding:0 20px}}
 </style>
 
 <a class="skip" href="#main" id="skip">Skip to content</a>
+<div class="progress" id="progress" aria-hidden="true"></div>
 
 <header class="site">
   <div class="wrap nav">
@@ -304,6 +364,7 @@ footer a:hover{color:#fff}
       </div>
       <div class="tracker" role="group" aria-label="Example company setup progress">
         <div class="tracker-head"><b>Example setup · Mainland LLC</b><span>Day 6</span></div>
+        <div class="tbar" aria-hidden="true"><i></i></div>
         <div id="tracker"></div>
         <p class="tracker-foot">Illustrative example. Timelines vary by activity and authority.</p>
       </div>
@@ -318,6 +379,8 @@ footer a:hover{color:#fff}
       <div class="proof-item"><b>Mon to Fri, 9:00 to 18:00</b><span>UAE time (GST, UTC+4)</span></div>
     </div>
   </section>
+
+  <div class="ticker" aria-hidden="true"><div class="ticker-track" id="ticker"></div></div>
 
   <section class="band">
     <div class="wrap">
@@ -588,7 +651,7 @@ var TRACK=[["Trade name reserved","done"],["Initial approval","done"],["MOA and 
 var FORM_SERVICES=["Mainland company formation","Free zone company formation","Visa services","Corporate bank account support","Accounting and bookkeeping","Tax registration and filing","Website design and development","Not sure yet"];
 
 /* ---------- render static data ---------- */
-$("#tracker").innerHTML=TRACK.map(function(r){var s=r[1];return '<div class="t-step '+s+'"><span class="dot '+s+'">'+(s==="done"?I.check:"")+'</span><span>'+r[0]+'</span><span class="chip '+(s==="done"?"ok":s==="now"?"go":"")+'">'+(s==="done"?"Done":s==="now"?"In progress":"Next")+'</span></div>'}).join("");
+$("#tracker").innerHTML=TRACK.map(function(r,i){var s=r[1];return '<div class="t-step '+s+'" style="--i:'+i+'"><span class="dot '+s+'">'+(s==="done"?I.check:"")+'</span><span>'+r[0]+'</span><span class="chip '+(s==="done"?"ok":s==="now"?"go":"")+'">'+(s==="done"?"Done":s==="now"?"In progress":"Next")+'</span></div>'}).join("");
 $("#homeServices").innerHTML=SERVICES.map(function(s){return '<a class="svc'+(s.w6?" w6":"")+(s.feature?" feature":"")+'" href="#svc-'+s.id+'"><span class="icon">'+I[s.icon]+'</span><h3>'+s.title+'</h3><p>'+s.short+'</p><span class="more">Learn more '+I.arrow+'</span></a>'}).join("");
 $("#steps").innerHTML=STEPS.map(function(s,i){return '<div class="step"><span class="n">'+(i+1)+'</span><h3>'+s[0]+'</h3><p>'+s[1]+'</p></div>'}).join("");
 $("#jump").innerHTML=SERVICES.map(function(s){return '<a href="#svc-'+s.id+'">'+s.title+'</a>'}).join("");
@@ -627,6 +690,7 @@ function verdict(){
   else if(f){c="f";t="A free zone looks like the better fit";d="Your work is mostly international or online, and a free zone package keeps setup simple."}
   else{t="Tick what applies to you";d="We will suggest a starting point. An advisor confirms it against your activity, budget and visa needs."}
   el.className="verdict "+c;el.innerHTML="<b>"+t+"</b><p>"+d+"</p>";
+  if(el.animate&&!(window.matchMedia&&matchMedia("(prefers-reduced-motion:reduce)").matches))el.animate([{opacity:.3,transform:"translateY(8px)"},{opacity:1,transform:"none"}],{duration:380,easing:"cubic-bezier(.2,.7,.2,1)"});
 }
 $("#quiz").addEventListener("change",function(e){qa[e.target.dataset.k]=e.target.checked;verdict()});verdict();
 
@@ -641,7 +705,8 @@ function route(){
   else if(TITLES[h]){page=h}
   if(!page){if(started)return;page="home"}
   started=true;
-  $$("[data-page]").forEach(function(s){s.hidden=s.dataset.page!==page});
+  $$("[data-page]").forEach(function(s){s.hidden=s.dataset.page!==page;s.classList.remove("page-in")});
+  var cur=$('[data-page="'+page+'"]');void cur.offsetWidth;cur.classList.add("page-in");
   $("#cta").hidden=page==="contact"||page==="privacy";
   $$("[data-nav]").forEach(function(a){if(a.dataset.nav===page)a.setAttribute("aria-current","page");else a.removeAttribute("aria-current")});
   closeMenu();
@@ -745,6 +810,33 @@ function showDone(){
   $("#again").addEventListener("click",function(){form.reset();sel.value=detectCountry();FIELDS.forEach(function(i){setErr(i,"")});s.hidden=true;$("#formBody").hidden=false;$("#c-first").focus()});
 }
 function esc(t){return t.replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]})}
+
+/* ---------- motion ---------- */
+var calm=window.matchMedia&&matchMedia("(prefers-reduced-motion:reduce)").matches;
+var TK=["Mainland formation","Free zone formation","Residence visas","Bank account support","Accounting","Corporate Tax","VAT","Websites"];
+var tkHtml=TK.map(function(t){return "<span>"+t+"</span>"}).join("");
+$("#ticker").innerHTML=calm?tkHtml:tkHtml+tkHtml;
+if(!calm){
+  var hdr=$("header.site"),bar=$("#progress"),ticking=false;
+  var onScroll=function(){ticking=false;var y=window.scrollY,h=document.documentElement.scrollHeight-window.innerHeight;hdr.classList.toggle("scrolled",y>8);bar.style.transform="scaleX("+(h>0?Math.min(1,y/h):0)+")"};
+  window.addEventListener("scroll",function(){if(!ticking){ticking=true;requestAnimationFrame(onScroll)}},{passive:true});
+  document.addEventListener("pointermove",function(e){var c=e.target.closest&&e.target.closest(".svc,.post-card");if(!c)return;var r=c.getBoundingClientRect();c.style.setProperty("--mx",(e.clientX-r.left)+"px");c.style.setProperty("--my",(e.clientY-r.top)+"px")},{passive:true});
+  if("IntersectionObserver" in window){
+    var io=new IntersectionObserver(function(es){es.forEach(function(e){
+      if(!e.isIntersecting)return;
+      var t=e.target;io.unobserve(t);t.classList.add("in");
+      setTimeout(function(){t.classList.remove("pre","in","pl")},1600);
+    })},{threshold:.12,rootMargin:"0px 0px -6% 0px"});
+    $$(".sec-head,.proof-item,.svc,.step,.post-card,.table-box,.chooser,.svc-detail,.cta>*").forEach(function(el){
+      var hidden=el.offsetParent===null;
+      if(!hidden&&el.getBoundingClientRect().top<window.innerHeight*.9)return;
+      var idx=Array.prototype.indexOf.call(el.parentNode.children,el);
+      el.style.setProperty("--d",Math.min(idx,5)*.08+"s");
+      el.classList.add("pre");io.observe(el);
+    });
+    $$(".steps").forEach(function(el){el.classList.add("pl");io.observe(el)});
+  }
+}
 
 route();
 })();
