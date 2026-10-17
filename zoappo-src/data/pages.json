@@ -1,0 +1,4737 @@
+{
+ "about-us": {
+  "path": "/about-us/",
+  "title": "About Zoappo – Zoho Certified Partner in Dubai, UAE",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Welcome to Zoappo",
+    "h1": "Your Trusted Zoho Certified Partner for Seamless Business Solutions",
+    "lead": "At Zoappo, we are proud to be a Zoho Certified Partner, dedicated to helping businesses optimize their operations with tailored Zoho solutions. Our expertise ensures that you harness the full potential of Zoho’s suite of tools to streamline processes, enhance productivity, and drive growth.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ]
+   },
+   {
+    "k": "split",
+    "items": [
+     {
+      "ps": [
+       "Whether you’re looking to improve customer relationship management, automate workflows, or manage finances, Zoappo offers the right solutions to meet your unique business needs.",
+       "As a Zoho Certified Partner, our mission is to empower businesses with cutting-edge Zoho solutions that drive efficiency, innovation, and growth. We are committed to providing personalized, scalable solutions that cater to your specific business needs. Our goal is to simplify complex processes, improve customer engagement, and boost overall performance. By leveraging Zoho’s robust suite of tools, we help businesses transform their operations and achieve greater success in an ever-evolving digital landscape. Together, we unlock new possibilities and ensure your business stays ahead of the competition."
+      ]
+     }
+    ],
+    "img": null,
+    "reverse": false,
+    "muted": false
+   },
+   {
+    "k": "split",
+    "items": [
+     {
+      "h2": "We are a Zoho Authorized Partner. We make digital adoption quick and reliable.",
+      "ps": [
+       "As a trusted Zoho Authorized Partner, we specialize in simplifying and accelerating your digital adoption journey, delivering tailored solutions that drive efficiency and growth for your business."
+      ]
+     },
+     {
+      "h2": "Top Digital Solutions for Business Success",
+      "ps": [
+       "We provide the best digital solutions designed to empower your business, streamline operations, and foster sustainable growth. Our innovative technology and tailored strategies help you stay ahead of the competition, optimize performance, and unlock new opportunities for success."
+      ],
+      "list": [
+       "Fast world-wide delivery",
+       "Safety & compliance ensured",
+       "Start-to-finish solutions",
+       "Reliable services",
+       "Sustainable",
+       "Trained Professionals"
+      ]
+     }
+    ],
+    "img": null,
+    "reverse": false,
+    "muted": true
+   },
+   {
+    "k": "cards",
+    "items": [
+     {
+      "p": "Our journey began as a boutique digital solutions company, quickly scaling to support global MNCs and startups. Seeing the growing need for apps, we used our expertise in digital products to help businesses achieve growth through workflow automation.",
+      "e": "Our Story"
+     },
+     {
+      "p": "Our mission is to empower businesses with Zoho-powered workflow automation solutions, streamlining processes, driving efficiency, and enhancing productivity, all while boosting profitability and enabling sustainable growth.",
+      "e": "Our Mission"
+     }
+    ],
+    "duo": true,
+    "muted": false
+   },
+   {
+    "k": "cards",
+    "h2": "Maximize your company’s efficiency with the top Zoho solution provider",
+    "p": "At Zoappo, we deliver customized Zoho solutions to enhance your company’s efficiency. As a Zoho Certified Partner, we help optimize operations, automate workflows, and improve customer relationships, ensuring your business runs smoothly and grows effectively.",
+    "items": [
+     {
+      "t": "Save Time",
+      "p": "Automate tasks and streamline workflows to save time, reduce effort, and boost productivity, allowing your team to focus on higher-value work."
+     },
+     {
+      "t": "Manage Leads",
+      "p": "Efficiently manage leads by tracking, nurturing, and converting them into customers, ensuring higher sales and improved business growth."
+     },
+     {
+      "t": "Cost Effective",
+      "p": "Achieve maximum results with minimal investment by utilizing cost-effective solutions that enhance productivity, reduce expenses, and drive business growth."
+     },
+     {
+      "t": "Data Driven",
+      "p": "Leverage data-driven insights to make informed decisions, optimize strategies, and enhance performance, driving growth and efficiency across your business."
+     }
+    ],
+    "muted": true,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "stats",
+    "items": [
+     {
+      "n": "100%",
+      "l": "Workflow Automation"
+     },
+     {
+      "n": "100+",
+      "l": "Business Specialists"
+     },
+     {
+      "n": "7X",
+      "l": "across Business Solutions"
+     }
+    ]
+   },
+   {
+    "k": "cards",
+    "items": [
+     {
+      "t": "Tech Integration",
+      "p": "Unlock your business potential by leveraging cutting-edge digital tools and technologies to accelerate growth.",
+      "n": "01"
+     },
+     {
+      "t": "Client Experience",
+      "p": "Get ready to revolutionize your business and build lasting connections with the power of exceptional customer experience!",
+      "n": "02"
+     },
+     {
+      "t": "E-commerce Solutions",
+      "p": "We help you convert and retain customers through a strategic, creative, and technology-driven approach.",
+      "n": "03"
+     }
+    ],
+    "duo": false,
+    "muted": false
+   },
+   {
+    "k": "logos",
+    "h2": "Our Clients",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_11209c984f1e2-removebg-preview-2.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/7Heartz.png",
+      "alt": "7Heartz"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_OBC-removebg-preview-1.png",
+      "alt": "OBC"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_og-image-2-removebg-preview.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_IFZA-LOGO-_002_-removebg-preview.png",
+      "alt": "IFZA"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2026/10/logo.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "cta",
+    "h2": "For queries, give us a call",
+    "p": "For any questions or assistance, feel free to give us a call. Our team is here to help and provide the support you need.",
+    "btns": [
+     {
+      "label": "Contact Us",
+      "href": "#contact",
+      "ext": false,
+      "primary": true
+     }
+    ]
+   }
+  ]
+ },
+ "analytics": {
+  "path": "/analytics/",
+  "title": "Zoho Analytics BI & Reporting Implementation in UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Custom Processes",
+    "h1": "Get real-time insights from your data in minutes with Zoho Analytics",
+    "lead": "Zoho Analytics helps you transform raw data into actionable insights in minutes. With its intuitive interface, powerful analytics tools, and real-time reporting capabilities, making data-driven decisions has never been easier. Get instant insights and drive smarter business strategies effortlessly.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ]
+   },
+   {
+    "k": "chips",
+    "h2": "Features of Zoho Analytics",
+    "items": [
+     "Data Integration",
+     "Advanced Data Analytics",
+     "Customizable Dashboards",
+     "AI-Powered Insights",
+     "Customizable Visualizations",
+     "Scheduled Reports",
+     "Custom Reports"
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "Zoho Analytics elevates every step of your analytics journey with GenAI",
+    "p": "From data integration to actionable insights, Zoho Analytics leverages AI to simplify complex processes, enabling smarter, faster decision-making.",
+    "items": [
+     {
+      "t": "Mobile Analytics",
+      "p": "Seamless access to your reports, dashboards, and key business metrics from anywhere, anytime. Monitor performance in real time and stay connected to your business on the go."
+     },
+     {
+      "t": "Report & Dashboard",
+      "p": "Create highly customizable, interactive reports and real-time dashboards to track key performance metrics, analyze trends, and identify opportunities across your organization."
+     },
+     {
+      "t": "AI-Powered Insights",
+      "p": "Advanced machine learning automatically analyzes your data, uncovers hidden patterns, and provides predictive analytics with smart suggestions and trend detection."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "cta",
+    "h2": "Empowering everyone with data-driven insights",
+    "p": "Whether you’re a business leader, team member, or analyst, Zoho Analytics enables you to unlock valuable insights, identify trends, and drive informed decisions effortlessly, fostering a culture of data-driven growth across your organization.",
+    "btns": [
+     {
+      "label": "Sign Up For Zoho Analytics",
+      "href": "https://store.zoho.com/ResellerCustomerSignUp.do?id=a18d2ca2697e7a53ceae32a22ffba12f",
+      "ext": true,
+      "primary": true
+     }
+    ]
+   },
+   {
+    "k": "logos",
+    "h2": "Trusted by Market Leaders",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_OBC-removebg-preview-1.png",
+      "alt": "OBC client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_11209c984f1e2-removebg-preview-2.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/7Heartz.png",
+      "alt": "7Heartz client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_og-image-2-removebg-preview.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_IFZA-LOGO-_002_-removebg-preview.png",
+      "alt": "IFZA client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2026/10/logo.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "How Zoho Analytics drives success across various industries",
+    "items": [
+     {
+      "t": "Marketing & Advertising",
+      "p": "Track campaign performance, analyze customer engagement, measure ROI, and uncover trends to optimize strategies and boost client results.",
+      "n": "01"
+     },
+     {
+      "t": "Hospitality & Tourism",
+      "p": "Track bookings, analyze guest preferences, manage revenue, and optimize staffing with real-time insights for better guest experience.",
+      "n": "02"
+     },
+     {
+      "t": "Logistics & Transportation",
+      "p": "Track shipments, monitor fleet performance, optimize routes, and analyze delivery data to improve efficiency and reduce costs.",
+      "n": "03"
+     },
+     {
+      "t": "Pharmaceuticals",
+      "p": "Analyze drug performance, track sales trends, manage inventory, and ensure regulatory compliance while optimizing operations.",
+      "n": "04"
+     },
+     {
+      "t": "Energy & Utilities",
+      "p": "Track consumption patterns, monitor resource usage, analyze operational performance, and optimize maintenance schedules.",
+      "n": "05"
+     },
+     {
+      "t": "Finance & Banking",
+      "p": "Analyze customer data, track financial performance, monitor risk factors, and ensure compliance with actionable insights.",
+      "n": "06"
+     }
+    ],
+    "muted": true,
+    "icon": false,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "biometric-devices": {
+  "path": "/biometric-devices/",
+  "title": "Biometric Attendance & Access Control Integration with Zoho | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Other Services",
+    "h1": "Biometric integration with Zoho: enhancing security and workflow efficiency",
+    "lead": "Integrate biometric devices with Zoho to boost security, streamline attendance, and automate workflows for greater efficiency.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ],
+    "img": {
+     "src": "https://zoappo.com/wp-content/uploads/2025/12/Biometric-Access-Control-System-Background-PNG.png",
+     "alt": ""
+    }
+   },
+   {
+    "k": "split",
+    "items": [
+     {
+      "h2": "Cloud biometric APIs for every device",
+      "ps": [
+       "Zoappo is leading the way in Biometric Research and Development, offering a state-of-the-art Web API designed for seamless integration with a wide range of biometric devices, including attendance systems, access control devices, and scanners. Our solutions also extend to biometric vehicle starters, fleet management, automobile security, vending machines, and beyond. All Zoappo Biometric APIs are cloud-based, providing secure access to features such as Fingerprint, Finger Vein, Iris, Palm, RFID, and UHF, enabling advanced identity management and cloud-powered solutions."
+      ]
+     }
+    ],
+    "img": null,
+    "reverse": false,
+    "muted": false
+   },
+   {
+    "k": "logos",
+    "h2": "Biometric Attendance and Access Control Systems",
+    "p": "Discover our advanced biometric devices for secure authentication, access control, and attendance tracking. Contact us to learn how our solutions can streamline your operations.",
+    "large": true,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/Screenshot_8-removebg-preview.png",
+      "alt": "Biometric attendance and access control device"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/Screenshot_9-removebg-preview.png",
+      "alt": "Biometric attendance and access control device"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/Screenshot_6-removebg-preview.png",
+      "alt": "Biometric attendance and access control device"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/Screenshot_5-removebg-preview.png",
+      "alt": "Biometric attendance and access control device"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/Screenshot_12-removebg-preview.png",
+      "alt": "Biometric attendance and access control device"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/Screenshot__10_-removebg-preview.png",
+      "alt": "Biometric attendance and access control device"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/Screenshot-15-.png",
+      "alt": "Biometric attendance and access control device"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/Screenshot-13-.png",
+      "alt": "Biometric attendance and access control device"
+     }
+    ]
+   },
+   {
+    "k": "cards",
+    "items": [
+     {
+      "t": "Enhanced Security",
+      "p": "Superior authentication methods like fingerprint, facial, and iris recognition ensure only authorized access and prevent fraud."
+     },
+     {
+      "t": "Efficient User Management",
+      "p": "Automates attendance tracking, access control, and identity verification, reducing manual errors and improving efficiency."
+     },
+     {
+      "t": "Seamless Integration",
+      "p": "Integrates easily with existing systems and applications, enhancing security and workflow automation."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "splitcards",
+    "h2": "Biometric APIs",
+    "img": {
+     "src": "https://zoappo.com/wp-content/uploads/2025/12/what-is-FR.jpg",
+     "alt": "Biometric APIs"
+    },
+    "cards": [
+     {
+      "t": "Location Tracking API",
+      "p": "Captures real-time latitude and longitude for employee or student punch-ins in moving vehicles, for precise attendance and workforce management."
+     },
+     {
+      "t": "Control Devices via API",
+      "p": "Securely control power switches, vending machines, forklifts, trucks, and equipment, granting access only to authorized users."
+     },
+     {
+      "t": "Biometric Scanner API",
+      "p": "Capture and compare fingerprint images using JavaScript, compatible across all browsers and Windows OS versions."
+     }
+    ]
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "blog": {
+  "path": "/blog/",
+  "title": "Zoho Insights & Guides for UAE Businesses | Zoappo Blog",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Zoappo Blog",
+    "h1": "Zoho insights & guides for growing businesses",
+    "lead": "Practical advice on implementing Zoho, automating workflows and connecting your tools, from our certified consultants in Dubai.",
+    "btns": []
+   },
+   {
+    "k": "form",
+    "h2": "Have a Zoho question we haven’t covered?",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ],
+  "posts": [
+   {
+    "slug": "zoho-one-vs-individual-zoho-apps",
+    "cat": "Zoho One",
+    "title": "Zoho One vs Individual Zoho Apps: Which Is Right for Your Business?",
+    "excerpt": "Should you buy Zoho One or start with a few Zoho apps like CRM and Books? A practical guide for UAE and GCC businesses choosing their Zoho setup.",
+    "date": "17 October 2026",
+    "read": "3 min read",
+    "img": {
+     "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_2_one1.png",
+     "alt": ""
+    }
+   },
+   {
+    "slug": "zoho-crm-implementation-process",
+    "cat": "Zoho CRM",
+    "title": "How a Zoho CRM Implementation Works: Our 4-Step Process",
+    "excerpt": "From requirements to go-live and beyond: how Zoappo implements Zoho CRM for businesses in Dubai, the UAE and the GCC, step by step.",
+    "date": "17 October 2026",
+    "read": "2 min read",
+    "img": {
+     "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_14_zoho-CRM-1536x153w61.png",
+     "alt": ""
+    }
+   },
+   {
+    "slug": "whatsapp-zoho-crm-integration-ideas",
+    "cat": "Integrations",
+    "title": "6 Ways to Use WhatsApp with Zoho to Win and Keep Customers",
+    "excerpt": "Practical ways UAE businesses connect WhatsApp to Zoho CRM, Bigin and SalesIQ: lead capture, alerts, rich media, e-receipts and AI-powered replies.",
+    "date": "17 October 2026",
+    "read": "2 min read",
+    "img": {
+     "src": "https://zoappo.com/wp-content/uploads/2025/12/create-leads.png",
+     "alt": ""
+    }
+   }
+  ]
+ },
+ "post-whatsapp-zoho-crm-integration-ideas": {
+  "path": "/blog/whatsapp-zoho-crm-integration-ideas/",
+  "title": "6 Ways to Use WhatsApp with Zoho to Win and Keep Customers | Zoappo",
+  "blocks": [],
+  "post": {
+   "slug": "whatsapp-zoho-crm-integration-ideas",
+   "cat": "Integrations",
+   "title": "6 Ways to Use WhatsApp with Zoho to Win and Keep Customers",
+   "lead": "Practical ways UAE businesses connect WhatsApp to Zoho CRM, Bigin and SalesIQ: lead capture, alerts, rich media, e-receipts and AI-powered replies.",
+   "by": "Zoappo Team",
+   "date": "17 October 2026",
+   "read": "2 min read",
+   "cover": {
+    "src": "https://zoappo.com/wp-content/uploads/2025/12/create-leads.png",
+    "alt": "6 Ways to Use WhatsApp with Zoho to Win and Keep Customers"
+   },
+   "tags": [
+    "WhatsApp",
+    "Zoho CRM",
+    "OpenAI",
+    "Automation"
+   ],
+   "toc": [
+    {
+     "id": "1-turn-whatsapp-chats-into-crm-leads",
+     "t": "1. Turn WhatsApp chats into CRM leads"
+    },
+    {
+     "id": "2-send-automatic-alerts-and-notifications",
+     "t": "2. Send automatic alerts and notifications"
+    },
+    {
+     "id": "3-share-rich-media-and-templates",
+     "t": "3. Share rich media and templates"
+    },
+    {
+     "id": "4-send-e-receipts-and-invoices",
+     "t": "4. Send e-receipts and invoices"
+    },
+    {
+     "id": "5-answer-faster-with-ai",
+     "t": "5. Answer faster with AI"
+    },
+    {
+     "id": "6-give-every-team-the-full-picture",
+     "t": "6. Give every team the full picture"
+    },
+    {
+     "id": "getting-it-right",
+     "t": "Getting it right"
+    },
+    {
+     "id": "how-zoappo-can-help",
+     "t": "How Zoappo can help"
+    }
+   ],
+   "html": "<p>In the UAE and across the Middle East, many customers would rather send a WhatsApp message than fill in a form or write an email. Connecting WhatsApp to Zoho means those conversations stop living on individual phones and start working for your whole business.</p>\n<p>Here are six practical ways to use it.</p>\n<h2 id=\"1-turn-whatsapp-chats-into-crm-leads\">1. Turn WhatsApp chats into CRM leads</h2><p>When a new number messages your business, a lead or contact can be created in Zoho CRM or Zoho Bigin automatically, with the conversation attached. No more leads lost in a salesperson’s personal chat history.</p>\n<h2 id=\"2-send-automatic-alerts-and-notifications\">2. Send automatic alerts and notifications</h2><p>Trigger WhatsApp messages from your Zoho workflows:</p>\n<ul>\n<li>Appointment and meeting reminders</li>\n<li>Order confirmations and delivery updates</li>\n<li>Payment reminders linked to Zoho Books invoices</li>\n<li>Status updates when a support ticket changes</li>\n</ul>\n<h2 id=\"3-share-rich-media-and-templates\">3. Share rich media and templates</h2><p>The WhatsApp Business API lets you send images, documents and pre-approved message templates. Share brochures, quotes and product catalogues directly from the customer’s record, using consistent, on-brand templates.</p>\n<h2 id=\"4-send-e-receipts-and-invoices\">4. Send e-receipts and invoices</h2><p>Streamline transactions by sending receipts and invoices over WhatsApp, where customers are most likely to see them, and keep a record of what was sent in Zoho.</p>\n<h2 id=\"5-answer-faster-with-ai\">5. Answer faster with AI</h2><p>By combining OpenAI with Zoho, common questions can be answered instantly by an intelligent chatbot, while complex conversations are handed to your team with full context. This keeps response times short, even outside office hours.</p>\n<h2 id=\"6-give-every-team-the-full-picture\">6. Give every team the full picture</h2><p>Because the conversation history sits on the customer record, sales, support and accounts all see the same context. Nobody asks the customer to repeat themselves.</p>\n<h2 id=\"getting-it-right\">Getting it right</h2><p>A few things to plan before you switch WhatsApp on:</p>\n<ul>\n<li><strong>Use the WhatsApp Business API</strong> with a verified business profile and display name, rather than a personal or basic business app on one phone.</li>\n<li><strong>Decide who owns which conversations.</strong> Route chats to the right team or person automatically.</li>\n<li><strong>Prepare your message templates</strong> for notifications in advance.</li>\n<li><strong>Respect opt-in.</strong> Only message customers who have agreed to hear from you on WhatsApp.</li>\n</ul>\n<h2 id=\"how-zoappo-can-help\">How Zoappo can help</h2><p>We design and build WhatsApp and OpenAI integrations for Zoho CRM, Bigin, SalesIQ and more, from setup to templates to automation. See our <a href=\"#openai-whatsapp-integrations\">OpenAI &amp; WhatsApp integration services</a> or <a href=\"https://zcform.com/bzQ70\">book a free consultation</a>.</p>"
+  }
+ },
+ "post-zoho-crm-implementation-process": {
+  "path": "/blog/zoho-crm-implementation-process/",
+  "title": "How a Zoho CRM Implementation Works: Our 4-Step Process | Zoappo",
+  "blocks": [],
+  "post": {
+   "slug": "zoho-crm-implementation-process",
+   "cat": "Zoho CRM",
+   "title": "How a Zoho CRM Implementation Works: Our 4-Step Process",
+   "lead": "From requirements to go-live and beyond: how Zoappo implements Zoho CRM for businesses in Dubai, the UAE and the GCC, step by step.",
+   "by": "Zoappo Team",
+   "date": "17 October 2026",
+   "read": "2 min read",
+   "cover": {
+    "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_14_zoho-CRM-1536x153w61.png",
+    "alt": "How a Zoho CRM Implementation Works: Our 4-Step Process"
+   },
+   "tags": [
+    "Zoho CRM",
+    "Implementation",
+    "Dubai"
+   ],
+   "toc": [
+    {
+     "id": "step-1-consult",
+     "t": "Step 1: Consult"
+    },
+    {
+     "id": "step-2-build",
+     "t": "Step 2: Build"
+    },
+    {
+     "id": "step-3-deploy",
+     "t": "Step 3: Deploy"
+    },
+    {
+     "id": "step-4-assist",
+     "t": "Step 4: Assist"
+    },
+    {
+     "id": "signs-your-crm-implementation-is-working",
+     "t": "Signs your CRM implementation is working"
+    },
+    {
+     "id": "ready-to-get-started",
+     "t": "Ready to get started?"
+    }
+   ],
+   "html": "<p>A well-implemented CRM is the foundation of business growth. A poorly implemented one becomes an expensive address book that nobody updates. The difference is rarely the software. It’s the <strong>process used to set it up</strong>.</p>\n<p>Here’s how we run Zoho CRM implementations for clients across the UAE, KSA, Qatar, Oman, Bahrain, Kuwait and the wider MENA region.</p>\n<h2 id=\"step-1-consult\">Step 1: Consult</h2><p>Every project starts with understanding your business, not the software.</p>\n<ul>\n<li><strong>Gather requirements.</strong> We study your current IT landscape and business processes: how leads arrive, how deals move, who approves what, and where data lives today.</li>\n<li><strong>Identify challenges.</strong> We analyze what we learn to find gaps, bottlenecks and duplicated effort that the CRM should fix.</li>\n</ul>\n<p>This is where we avoid the most common mistake: copying a messy offline process into a new system.</p>\n<h2 id=\"step-2-build\">Step 2: Build</h2><ul>\n<li><strong>Business requirements document (BRD).</strong> We collect the insights, recommended solutions and implementation plan into one document that everyone signs off on.</li>\n<li><strong>Prototype.</strong> Where useful, we build a working prototype of your customized CRM so your team can try it before full rollout.</li>\n</ul>\n<p>Typical customizations include custom modules and fields, lead scoring, sales process blueprints, territory management, approval workflows, and quote and invoice templates.</p>\n<h2 id=\"step-3-deploy\">Step 3: Deploy</h2><ul>\n<li><strong>Migration.</strong> We deploy the solution and migrate your existing data, such as contacts, accounts, deals and history, in a structured way so nothing is lost or duplicated.</li>\n<li><strong>Onboarding.</strong> We train your in-house champions so they can support the rest of the team with confidence.</li>\n</ul>\n<p>We also connect Zoho CRM to the tools you already rely on: email, WhatsApp, your website forms, Zoho Books, and other apps.</p>\n<h2 id=\"step-4-assist\">Step 4: Assist</h2><p>Go-live is the beginning, not the end.</p>\n<ul>\n<li><strong>Usage reviews.</strong> We look at how the CRM is actually being used and recommend improvements and best practices.</li>\n<li><strong>Technical support.</strong> Our support engineers help resolve issues and adjust the system as your business changes.</li>\n</ul>\n<h2 id=\"signs-your-crm-implementation-is-working\">Signs your CRM implementation is working</h2><ul>\n<li>Sales reps update the CRM because it saves them time, not because they’re told to.</li>\n<li>Managers see pipeline and forecasts in dashboards instead of asking for spreadsheets.</li>\n<li>Leads are followed up automatically and consistently.</li>\n<li>Customer history is in one place for anyone who needs it.</li>\n</ul>\n<h2 id=\"ready-to-get-started\">Ready to get started?</h2><p>Our certified consultants analyze your workflow, customize Zoho CRM, and make sure adoption is smooth across your team. Learn more about our <a href=\"#zoho-crm\">Zoho CRM implementation services</a> or <a href=\"https://zcform.com/bzQ70\">book a free consultation</a>.</p>"
+  }
+ },
+ "post-zoho-one-vs-individual-zoho-apps": {
+  "path": "/blog/zoho-one-vs-individual-zoho-apps/",
+  "title": "Zoho One vs Individual Zoho Apps: Which Is Right for Your Business? | Zoappo",
+  "blocks": [],
+  "post": {
+   "slug": "zoho-one-vs-individual-zoho-apps",
+   "cat": "Zoho One",
+   "title": "Zoho One vs Individual Zoho Apps: Which Is Right for Your Business?",
+   "lead": "Should you buy Zoho One or start with a few Zoho apps like CRM and Books? A practical guide for UAE and GCC businesses choosing their Zoho setup.",
+   "by": "Zoappo Team",
+   "date": "17 October 2026",
+   "read": "3 min read",
+   "cover": {
+    "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_2_one1.png",
+    "alt": "Zoho One vs Individual Zoho Apps: Which Is Right for Your Business?"
+   },
+   "tags": [
+    "Zoho One",
+    "Zoho CRM",
+    "Zoho Books",
+    "UAE"
+   ],
+   "toc": [
+    {
+     "id": "what-zoho-one-actually-is",
+     "t": "What Zoho One actually is"
+    },
+    {
+     "id": "when-individual-zoho-apps-make-sense",
+     "t": "When individual Zoho apps make sense"
+    },
+    {
+     "id": "when-zoho-one-is-the-better-choice",
+     "t": "When Zoho One is the better choice"
+    },
+    {
+     "id": "a-quick-way-to-decide",
+     "t": "A quick way to decide"
+    },
+    {
+     "id": "common-combinations-we-implement",
+     "t": "Common combinations we implement"
+    },
+    {
+     "id": "how-zoappo-helps",
+     "t": "How Zoappo helps"
+    }
+   ],
+   "html": "<p>One of the first questions we hear from businesses in Dubai, Abu Dhabi and across the GCC is simple: <strong>do we need Zoho One, or should we start with one or two apps?</strong> Both are valid paths. The right choice depends on how many teams you want to bring onto Zoho and how connected you need them to be.</p>\n<h2 id=\"what-zoho-one-actually-is\">What Zoho One actually is</h2><p>Zoho One is Zoho’s all-in-one business operating system. Instead of buying apps one by one, you get a suite of 50+ integrated applications covering sales, marketing, support, HR, finance, operations, productivity and collaboration, all under a single login and a single admin console.</p>\n<p>The real value is not the number of apps. It’s that <strong>data flows between them</strong>. A deal won in Zoho CRM can create an invoice in Zoho Books, a project in Zoho Projects and an onboarding task in Zoho People, without anyone re-typing information.</p>\n<h2 id=\"when-individual-zoho-apps-make-sense\">When individual Zoho apps make sense</h2><p>Starting with a focused set of apps is often the smarter move when:</p>\n<ul>\n<li><strong>You have one urgent problem to solve.</strong> For example, your sales team is managing leads in spreadsheets and you need Zoho CRM or Zoho Bigin now.</li>\n<li><strong>Only one or two departments will use Zoho</strong> in the next 12 months.</li>\n<li><strong>You already use other systems</strong> for accounting or HR that you’re not ready to replace.</li>\n<li><strong>You want to prove value first</strong> before rolling Zoho out company-wide.</li>\n</ul>\n<p>Zoho apps integrate well with each other, so you can start small and grow into a larger setup later without starting over.</p>\n<h2 id=\"when-zoho-one-is-the-better-choice\">When Zoho One is the better choice</h2><p>Zoho One usually wins when:</p>\n<ul>\n<li><strong>Three or more departments</strong> need software (for example sales, finance and HR).</li>\n<li>You want <strong>one source of truth</strong> for customers, employees and finances.</li>\n<li>You’re <strong>replacing several disconnected tools</strong> and want to reduce the number of vendors you manage.</li>\n<li>You plan to <strong>automate processes across teams</strong>, such as quote-to-cash or hire-to-onboard.</li>\n<li>You want room to grow: apps like Zoho Creator, Analytics and Flow are included, so you can build custom workflows as your needs evolve.</li>\n</ul>\n<h2 id=\"a-quick-way-to-decide\">A quick way to decide</h2><p>Ask yourself three questions:</p>\n<ol>\n<li><strong>How many teams will use Zoho in the next year?</strong> One or two points to individual apps; three or more points to Zoho One.</li>\n<li><strong>How much do your processes cross departments?</strong> The more hand-offs between teams, the more Zoho One’s connected data pays off.</li>\n<li><strong>What will you replace?</strong> If you’re consolidating several tools, compare the total cost of those tools against Zoho One.</li>\n</ol>\n<h2 id=\"common-combinations-we-implement\">Common combinations we implement</h2><table>\n<thead>\n<tr>\n<th>Business need</th>\n<th>Typical starting point</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Small sales team, simple pipeline</td>\n<td>Zoho Bigin</td>\n</tr>\n<tr>\n<td>Growing sales team with automation needs</td>\n<td>Zoho CRM or CRM Plus</td>\n</tr>\n<tr>\n<td>Sales + accounting</td>\n<td>Zoho CRM + Zoho Books</td>\n</tr>\n<tr>\n<td>Sales, finance and HR across the company</td>\n<td>Zoho One</td>\n</tr>\n<tr>\n<td>Unique processes no off-the-shelf app covers</td>\n<td>Zoho Creator (included in Zoho One)</td>\n</tr>\n</tbody></table>\n<h2 id=\"how-zoappo-helps\">How Zoappo helps</h2><p>As a certified Zoho partner in the UAE, we start by mapping your workflows, then recommend the setup that fits, whether that’s a single app or the full Zoho One suite. We handle configuration, data migration, integrations and training so your team adopts the system quickly.</p>\n<p>Not sure which path suits you? <a href=\"https://zcform.com/bzQ70\">Book a free consultation</a> or explore our <a href=\"#zoho-one\">Zoho One implementation services</a>.</p>"
+  }
+ },
+ "books": {
+  "path": "/books/",
+  "title": "Zoho Books Accounting Software Implementation in UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Finance & Operations",
+    "h1": "Effortless financial management for your growing business with Zoho Books",
+    "lead": "Zoho Books simplifies financial management for growing businesses by automating accounting tasks, tracking expenses, and generating insightful reports. With its user-friendly interface and powerful features, Zoho Books helps you stay organized, save time, and make smarter financial decisions.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ]
+   },
+   {
+    "k": "chips",
+    "h2": "Features of Zoho Books",
+    "items": [
+     "Invoicing and Billing",
+     "Expense Tracking",
+     "Inventory Management",
+     "Tax Management",
+     "Financial Reporting",
+     "Multi-currency Support",
+     "Bank Reconciliation"
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "Zoho Books: the all-in-one accounting solution for every business need",
+    "p": "From managing finances and tracking expenses to generating detailed reports and ensuring compliance, Zoho Books offers a comprehensive suite of tools to simplify your accounting processes.",
+    "items": [
+     {
+      "t": "Purchase Orders",
+      "p": "Request goods or services from suppliers. Create, track, and convert purchase orders into bills, streamlining procurement and accounting."
+     },
+     {
+      "t": "Sales Orders",
+      "p": "Track customer purchases before invoicing, then convert sales orders into invoices once goods or services are delivered."
+     },
+     {
+      "t": "Chart of Accounts",
+      "p": "A categorized list of all financial accounts used by your business, organizing transactions for accurate bookkeeping and reporting."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "cta",
+    "h2": "Effortless accounting anytime, anywhere",
+    "p": "Seamless banking, smart automation, full customization, and global sales ready. Manage finances from any device, sell globally with ease, track transactions, and stay in control of your business’s financial health.",
+    "btns": [
+     {
+      "label": "Sign Up For Zoho Books",
+      "href": "https://store.zoho.com/ResellerCustomerSignUp.do?id=a18d2ca2697e7a53ceae32a22ffba12f",
+      "ext": true,
+      "primary": true
+     }
+    ]
+   },
+   {
+    "k": "logos",
+    "h2": "Trusted by Market Leaders",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_OBC-removebg-preview-1.png",
+      "alt": "OBC client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_11209c984f1e2-removebg-preview-2.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/7Heartz.png",
+      "alt": "7Heartz client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_og-image-2-removebg-preview.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_IFZA-LOGO-_002_-removebg-preview.png",
+      "alt": "IFZA client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2026/10/logo.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "How Zoho Books drives success across various industries",
+    "items": [
+     {
+      "t": "Construction",
+      "p": "Manage project budgets, track expenses, create quotes and invoices, and handle vendor payments with simple job costing.",
+      "n": "01"
+     },
+     {
+      "t": "Nonprofits",
+      "p": "Track donations, manage expenses, create detailed financial reports, and stay transparent and compliant.",
+      "n": "02"
+     },
+     {
+      "t": "Agriculture",
+      "p": "Manage expenses, track crop-related costs, invoice produce sales, and streamline inventory.",
+      "n": "03"
+     },
+     {
+      "t": "Manufacturing",
+      "p": "Manage inventory, track production costs, create purchase orders, and invoice clients accurately.",
+      "n": "04"
+     },
+     {
+      "t": "Retail",
+      "p": "Manage inventory, track sales, create invoices, handle supplier payments, and integrate with e-commerce.",
+      "n": "05"
+     },
+     {
+      "t": "Hospitality",
+      "p": "Manage bookings, track expenses, generate invoices, and handle supplier payments for hotels and restaurants.",
+      "n": "06"
+     }
+    ],
+    "muted": true,
+    "icon": false,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "campaigns": {
+  "path": "/campaigns/",
+  "title": "Zoho Campaigns Email & SMS Marketing in UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Marketing",
+    "h1": "Boost your marketing efforts with Zoho Campaigns’ unified Email and SMS marketing solution",
+    "lead": "Zoho Campaigns offers a powerful, integrated solution to manage both Email and SMS marketing campaigns. Effortlessly reach your audience across multiple channels, personalize communication, track performance, and drive higher engagement with a seamless, unified marketing approach.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ]
+   },
+   {
+    "k": "chips",
+    "h2": "Features of Zoho Campaigns",
+    "items": [
+     "Email Campaign Automation",
+     "SMS Marketing",
+     "A/B Testing",
+     "Segmentation",
+     "Analytics and Reporting",
+     "Drag-and-Drop Editor",
+     "Integrations"
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "Supercharge your marketing with Zoho Campaigns",
+    "p": "Zoho Campaigns is a comprehensive marketing platform that empowers businesses to create, automate, and optimize their Email and SMS campaigns. With advanced features like personalization, A/B testing, and real-time analytics, it helps you engage your audience, boost conversions, and drive meaningful results across multiple channels.",
+    "items": [
+     {
+      "t": "Automated Campaigns",
+      "p": "Create personalized, trigger-based email and SMS workflows, ensuring timely, relevant communication with your audience while saving time and improving engagement."
+     },
+     {
+      "t": "Segmentation",
+      "p": "Group contacts based on demographics, behavior, and preferences, enabling personalized, targeted campaigns that drive higher engagement, conversions, and customer satisfaction."
+     },
+     {
+      "t": "Performance Tracking",
+      "p": "Detailed insights into key metrics like open rates, click-through rates, and conversions, allowing you to measure success, optimize campaigns, and make data-driven decisions."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "cta",
+    "h2": "The ultimate marketing solution for eCommerce: boost sales, engage customers, and drive growth",
+    "p": "Integrate your eCommerce store with Zoho Campaigns to automate purchase follow-ups, send abandoned cart reminders, and keep customers informed about exclusive promotions and discounts, boosting sales and engagement effortlessly.",
+    "btns": [
+     {
+      "label": "Sign Up For Zoho Campaigns",
+      "href": "https://store.zoho.com/ResellerCustomerSignUp.do?id=a18d2ca2697e7a53ceae32a22ffba12f",
+      "ext": true,
+      "primary": true
+     }
+    ]
+   },
+   {
+    "k": "logos",
+    "h2": "Trusted by Market Leaders",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_OBC-removebg-preview-1.png",
+      "alt": "OBC client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_11209c984f1e2-removebg-preview-2.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/7Heartz.png",
+      "alt": "7Heartz client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_og-image-2-removebg-preview.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_IFZA-LOGO-_002_-removebg-preview.png",
+      "alt": "IFZA client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2026/10/logo.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "Who uses Zoho Campaigns",
+    "items": [
+     {
+      "t": "Event Organizers",
+      "p": "Automate invitations, send event reminders, manage RSVPs, and engage attendees with personalized follow-ups, ensuring higher attendance and lasting connections.",
+      "n": "01"
+     },
+     {
+      "t": "Retail Businesses",
+      "p": "Send targeted promotions, loyalty rewards, and personalized offers, enhancing customer engagement, increasing repeat sales, and driving traffic online and in-store.",
+      "n": "02"
+     },
+     {
+      "t": "SaaS Companies",
+      "p": "Automate customer onboarding, send product updates, nurture leads, and reduce churn with personalized content, renewal reminders, and engagement strategies.",
+      "n": "03"
+     },
+     {
+      "t": "Real Estate Agencies",
+      "p": "Send personalized property listings, schedule follow-ups, and nurture leads with targeted emails, keeping clients informed about new listings and market updates.",
+      "n": "04"
+     },
+     {
+      "t": "E-commerce Stores",
+      "p": "Automate cart abandonment emails, send personalized product recommendations, follow up on purchases, and promote discounts, driving higher sales and retention.",
+      "n": "05"
+     },
+     {
+      "t": "Consulting & Service Providers",
+      "p": "Send personalized service updates, newsletters, appointment reminders, and follow-up emails, enhancing client relationships and driving repeat business.",
+      "n": "06"
+     }
+    ],
+    "muted": true,
+    "icon": false,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "contact": {
+  "path": "/contact/",
+  "title": "Contact Zoappo – Zoho Partner in Dubai, UAE",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Contact Us",
+    "h1": "Need professional help? We’ve got you covered!",
+    "lead": "Whether you have a query, need more information, or are ready to kickstart your project, we are just a message away.",
+    "btns": []
+   },
+   {
+    "k": "cards",
+    "items": [
+     {
+      "t": "zoho@zoappo.com",
+      "p": "Whether you have a query, need more information, or are ready to kickstart your project, we are just a message away."
+     },
+     {
+      "t": "+971 55 558 4095",
+      "p": "Ready to team up? Excited to explore opportunities together."
+     },
+     {
+      "t": "Office 102-12, 1st Floor RAG Business Centre, Al Twar-5, Dubai, UAE",
+      "p": "Welcome to our office for face-to-face interactions."
+     }
+    ],
+    "duo": false,
+    "muted": false
+   },
+   {
+    "k": "form",
+    "h2": "Get in touch",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   },
+   {
+    "k": "map"
+   }
+  ]
+ },
+ "crm-plus": {
+  "path": "/crm-plus/",
+  "title": "Zoho CRM Plus Implementation in Dubai, UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Sales",
+    "h1": "Create exceptional customer experiences with Zoho CRM Plus, the all-in-one solution for seamless engagement",
+    "lead": "Zoho CRM Plus enables businesses to deliver exceptional customer experiences with a unified platform for seamless engagement. It integrates sales, marketing, support, and analytics, helping streamline processes, personalize interactions, and build lasting customer relationships.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ]
+   },
+   {
+    "k": "chips",
+    "h2": "Features of CRM Plus",
+    "items": [
+     "Unified Customer View",
+     "Omnichannel Communication",
+     "Sales Automation",
+     "Marketing Automation",
+     "Customer Support Integration",
+     "Advanced Analytics",
+     "Customizable Workflows"
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "Unify your teams and deliver exceptional customer experiences with Zoho CRM Plus",
+    "p": "Zoho CRM Plus brings together your sales, marketing, customer service, and all customer-facing teams on a single platform, enabling you to provide exceptional experiences for every customer. Consolidate business data, track customer interactions, measure ROI, and more—while keeping your customers at the heart of every decision.",
+    "items": [
+     {
+      "t": "Omnichannel",
+      "p": "Bring sales, marketing, customer service, and every customer-facing team onto a single platform. Consolidate business data, track customer interactions, measure ROI, and keep customers at the heart of every decision."
+     },
+     {
+      "t": "Integration",
+      "p": "Zoho CRM Plus provides seamless integration with a wide range of apps, including email, social media, and third-party platforms. This ensures a smooth flow of customer data, enhances team collaboration, and streamlines workflows across your business."
+     },
+     {
+      "t": "Automation",
+      "p": "Zoho CRM Plus automates repetitive tasks like lead management, email campaigns, and follow-ups. Streamline workflows, reduce manual efforts, and ensure timely, personalized communication, allowing your team to focus on high-value activities."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "cta",
+    "h2": "Offer your customers the ease of seamless omnichannel engagement.",
+    "p": "Engage with your customers seamlessly at every stage of their journey across multiple channels. Zoho CRM Plus provides real-time notifications, ensuring you always have full context of every interaction, no matter the platform. Effortlessly manage and track conversations with different teams in a single, unified thread, improving collaboration and response time. Deliver a personalized and consistent experience, keeping your customers engaged and satisfied throughout their entire lifecycle.",
+    "btns": [
+     {
+      "label": "Sign Up For Zoho CRM Plus",
+      "href": "https://store.zoho.com/ResellerCustomerSignUp.do?id=a18d2ca2697e7a53ceae32a22ffba12f",
+      "ext": true,
+      "primary": true
+     }
+    ]
+   },
+   {
+    "k": "logos",
+    "h2": "Trusted by Market Leaders",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_OBC-removebg-preview-1.png",
+      "alt": "OBC client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_11209c984f1e2-removebg-preview-2.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/7Heartz.png",
+      "alt": "7Heartz client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_og-image-2-removebg-preview.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_IFZA-LOGO-_002_-removebg-preview.png",
+      "alt": "IFZA client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2026/10/logo.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "Everything your customer-facing teams need",
+    "items": [
+     {
+      "t": "Unified Customer Data",
+      "p": "Zoho CRM Plus unifies all customer data in one platform, offering a comprehensive 360-degree view. This enables personalized communication, informed decision-making, and better customer relationship management across teams."
+     },
+     {
+      "t": "Customizable Dashboards",
+      "p": "Zoho CRM Plus provides customizable dashboards that let you tailor key metrics, KPIs, and reports to your business needs. This enables quick access to actionable insights, helping you make informed decisions efficiently."
+     },
+     {
+      "t": "Customer Support Integration",
+      "p": "Zoho CRM Plus integrates customer support tools, allowing seamless tracking of issues and resolutions. This ensures efficient communication, quick response times, and enhanced customer satisfaction by connecting support with sales and marketing teams."
+     },
+     {
+      "t": "Mobile App",
+      "p": "The Zoho CRM Plus mobile app allows you to stay connected with your customers and team, even while on the go. Access real-time data, track sales progress, manage tasks, and collaborate seamlessly from anywhere."
+     },
+     {
+      "t": "AI-Powered Insights",
+      "p": "AI-powered insights in Zoho CRM Plus analyze customer data, sales trends, and interactions to provide actionable recommendations. Leverage predictive analytics for smarter decision-making, improving engagement and overall business strategy."
+     },
+     {
+      "t": "Advanced Analytics",
+      "p": "Zoho CRM Plus offers advanced analytics, providing customizable reports and real-time data visualizations. Track key performance indicators, sales metrics, and customer behaviors to optimize strategies, and drive informed decisions."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "flow": {
+  "path": "/flow/",
+  "title": "Zoho Flow Integration & Workflow Automation in UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Custom Processes",
+    "h1": "Boost your productivity with easy app integration and workflow automation using Zoho Flow",
+    "lead": "Streamline your workday with Zoho Flow! Effortlessly integrate your favorite apps and automate complex workflows, saving time and reducing manual tasks. Enhance productivity and ensure smooth collaboration by connecting all your tools in one place.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ]
+   },
+   {
+    "k": "chips",
+    "h2": "Features of Zoho Flow",
+    "items": [
+     "App Integration",
+     "Drag-and-Drop Workflow Builder",
+     "Conditional Logic",
+     "Multi-step Workflows",
+     "Cross-platform Automation",
+     "Secure Data Handling",
+     "Error Handling and Notifications"
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "Create seamless workflows for every team with Zoho Flow",
+    "p": "Automate routine tasks, streamline communication, and ensure seamless collaboration across departments. Whether it’s sales, marketing, support, or operations, Zoho Flow helps each team stay organized and efficient by connecting all your essential apps in one place.",
+    "items": [
+     {
+      "t": "Sales & CRM Automation",
+      "p": "Sync lead data, manage interactions, and streamline follow-ups. Connect Zoho CRM with other tools, improving efficiency, accuracy, and team productivity."
+     },
+     {
+      "t": "Marketing Automation",
+      "p": "Sync platforms like Zoho Campaigns, Mailchimp, and Google Ads. Streamline customer data, personalize outreach, and trigger timely campaigns."
+     },
+     {
+      "t": "Customer Support Automation",
+      "p": "Sync tools like Zoho Desk, Zendesk, and Freshdesk. Streamline ticket creation and management, escalate critical issues, and trigger timely responses."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "cta",
+    "h2": "Transform your business with seamless automation and powerful integrations",
+    "p": "Zoho Flow streamlines your business by automating tasks and integrating apps. Simplify workflows, reduce manual work, and boost productivity—unlock efficiency and focus on what matters most.",
+    "btns": [
+     {
+      "label": "Sign Up For Zoho Flow",
+      "href": "https://store.zoho.com/ResellerCustomerSignUp.do?id=a18d2ca2697e7a53ceae32a22ffba12f",
+      "ext": true,
+      "primary": true
+     }
+    ]
+   },
+   {
+    "k": "logos",
+    "h2": "Trusted by Market Leaders",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_OBC-removebg-preview-1.png",
+      "alt": "OBC client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_11209c984f1e2-removebg-preview-2.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/7Heartz.png",
+      "alt": "7Heartz client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_og-image-2-removebg-preview.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_IFZA-LOGO-_002_-removebg-preview.png",
+      "alt": "IFZA client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2026/10/logo.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "How Zoho Flow drives success across various industries",
+    "items": [
+     {
+      "t": "Retail & E-Commerce",
+      "p": "Sync inventory, order management, and customer communication across platforms, improving efficiency and customer experience.",
+      "n": "01"
+     },
+     {
+      "t": "Finance & Accounting",
+      "p": "Sync invoicing, payment tracking, and financial reporting to reduce manual effort, improve accuracy, and ensure timely processing.",
+      "n": "02"
+     },
+     {
+      "t": "Marketing & Advertising",
+      "p": "Sync campaigns, lead management, and customer engagement to improve targeting and campaign performance.",
+      "n": "03"
+     },
+     {
+      "t": "Finance & Banking",
+      "p": "Sync transactions, customer data, and compliance tasks for accurate reporting, faster processing, and regulatory compliance.",
+      "n": "04"
+     },
+     {
+      "t": "Education",
+      "p": "Sync student enrollment, grading, and communication to streamline administration and collaboration between faculty, staff, and students.",
+      "n": "05"
+     },
+     {
+      "t": "Hospitality",
+      "p": "Sync reservations, guest communication, and housekeeping schedules to streamline operations and improve guest experience.",
+      "n": "06"
+     }
+    ],
+    "muted": true,
+    "icon": false,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "home": {
+  "path": "/",
+  "title": "Zoho Implementation & Consulting in Dubai, UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "UAE & MENA Zoho Partner",
+    "h1": "Zoho Implementation & Consulting Services",
+    "lead": "A well-implemented CRM is the foundation of business growth. Our Zoho CRM implementation services in the GCC (UAE, KSA, Qatar, Oman, Bahrain, Kuwait) and other Middle East and Africa countries are designed to help businesses manage leads, automate sales processes, and gain real-time insights.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Explore Zoho One",
+      "href": "#zoho-one",
+      "ext": false,
+      "primary": false
+     }
+    ],
+    "img": {
+     "src": "https://zoappo.com/wp-content/uploads/2026/01/Untitled-design-8.png",
+     "alt": "Zoho implementation by Zoappo"
+    },
+    "tags": [
+     "UAE",
+     "KSA",
+     "Qatar",
+     "Oman",
+     "Bahrain",
+     "Kuwait",
+     "Africa"
+    ],
+    "badge": "https://zoappo.com/wp-content/uploads/2025/12/WhatsApp-Image-2026-09-26-at-5.34.40-PM-1024x904.jpeg"
+   },
+   {
+    "k": "split",
+    "items": [
+     {
+      "e": "Zoho Implementation for MENA Businesses",
+      "h2": "We don’t believe in one-size-fits-all solutions",
+      "ps": [
+       "Our Zoho CRM implementation services in Dubai and the UAE are designed to help businesses manage leads, automate sales processes, and gain real-time insights. Our certified consultants analyze your workflow, customize Zoho, and ensure smooth adoption across your team."
+      ]
+     }
+    ],
+    "img": null,
+    "reverse": false,
+    "muted": false
+   },
+   {
+    "k": "cards",
+    "eyebrow": "Our Zoho Implementation Includes",
+    "h2": "One partner for every Zoho app your business runs on",
+    "items": [
+     {
+      "t": "CRM",
+      "p": "Manage customer relationships smarter, faster, and effectively",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_14_zoho-CRM-1536x153w61.png",
+       "alt": "Zoho CRM"
+      },
+      "href": "#zoho-crm"
+     },
+     {
+      "t": "Books",
+      "p": "Simplify accounting, track finances, and stay compliant",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_24_imresizer-1740251344930.jpg",
+       "alt": "Zoho Books"
+      },
+      "href": "#books"
+     },
+     {
+      "t": "People",
+      "p": "Empower teams, manage talent, and boost productivity",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_18_Zoho-People1.png",
+       "alt": "Zoho People"
+      },
+      "href": "#zoho-people"
+     },
+     {
+      "t": "Payroll",
+      "p": "Run payroll accurately, on time, without hassle",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_20_Payroll1.png",
+       "alt": "Zoho Payroll"
+      },
+      "href": "#zoho-one"
+     },
+     {
+      "t": "Inventory",
+      "p": "Track stock levels, reduce losses, and optimize",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_25_Inventory1.png",
+       "alt": "Zoho Inventory"
+      },
+      "href": "#inventory"
+     },
+     {
+      "t": "Connect",
+      "p": "Connect tools, teams, and data seamlessly together",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_33_Connect1.png",
+       "alt": "Zoho Connect"
+      },
+      "href": "#zoho-one"
+     }
+    ],
+    "muted": true,
+    "icon": false,
+    "image": false,
+    "appcards": true
+   },
+   {
+    "k": "split",
+    "items": [
+     {
+      "e": "Why Choose Zoappo",
+      "h2": "Your trusted Zoho Partner in the UAE",
+      "feats": [
+       {
+        "t": "Zoho Certified Experts",
+        "p": "Certified consultants who analyze your workflow and customize Zoho around it."
+       },
+       {
+        "t": "Customized Business Solutions",
+        "p": "No one-size-fits-all. Every implementation is shaped to how your team actually works."
+       },
+       {
+        "t": "Affordable and Scalable Plans",
+        "p": "Start with what you need today and grow into the full Zoho suite as you scale."
+       },
+       {
+        "t": "Dedicated Support Team",
+        "p": "Smooth adoption across your team, with ongoing support after go-live."
+       }
+      ],
+      "ps": []
+     }
+    ],
+    "img": {
+     "src": "https://zoappo.com/wp-content/uploads/2025/12/Z2.png",
+     "alt": "Why choose Zoappo"
+    },
+    "reverse": false,
+    "muted": false
+   },
+   {
+    "k": "logos",
+    "h2": "Trusted by Market Leaders",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_OBC-removebg-preview-1.png",
+      "alt": "OBC client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_11209c984f1e2-removebg-preview-2.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/7Heartz.png",
+      "alt": "7Heartz client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_og-image-2-removebg-preview.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_IFZA-LOGO-_002_-removebg-preview.png",
+      "alt": "IFZA client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2026/10/logo.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "cta",
+    "h2": "Ready to get more out of Zoho?",
+    "p": "Get a free consultation tailored to your business requirements, from a single app to the full Zoho One suite.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     }
+    ]
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "inventory": {
+  "path": "/inventory/",
+  "title": "Zoho Inventory Management Software in UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Finance & Operations",
+    "h1": "Supercharge your business with smart inventory solutions from Zoho Inventory",
+    "lead": "Zoho Inventory provides smart inventory solutions for growing businesses, offering real-time tracking, automated workflows, and seamless integrations. Stay organized, reduce errors, and boost efficiency to support your business growth.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ]
+   },
+   {
+    "k": "chips",
+    "h2": "Features of Zoho Inventory",
+    "items": [
+     "Inventory Tracking",
+     "Order Management",
+     "Barcode Scanning",
+     "Customizable Invoices",
+     "Stock Adjustments",
+     "Multi-Channel Selling",
+     "Purchase and Sales Orders"
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "All-in-one order, stock, purchase, sales and warehouse management",
+    "p": "With real-time tracking, automated workflows, and easy integration with other Zoho apps, Zoho Inventory streamlines operations across multiple locations and keeps every transaction accurate.",
+    "items": [
+     {
+      "t": "Stock Management",
+      "p": "Track inventory levels in real time, manage multiple warehouses, automate stock updates, and prevent overstocking or stockouts."
+     },
+     {
+      "t": "Order Fulfillment",
+      "p": "Automate order processing, track sales and purchase orders, manage shipping, and update inventory levels for timely deliveries."
+     },
+     {
+      "t": "Inventory Reports",
+      "p": "Stock levels, sales trends, purchase history, and order statuses to monitor performance and make data-driven decisions."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "cta",
+    "h2": "Transform your business with smart order, stock, and sales management",
+    "p": "Real-time tracking, automated workflows, and easy integrations simplify inventory management and boost accuracy, so you can focus on growing your business.",
+    "btns": [
+     {
+      "label": "Sign Up For Zoho Inventory",
+      "href": "https://store.zoho.com/ResellerCustomerSignUp.do?id=a18d2ca2697e7a53ceae32a22ffba12f",
+      "ext": true,
+      "primary": true
+     }
+    ]
+   },
+   {
+    "k": "logos",
+    "h2": "Trusted by Market Leaders",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_OBC-removebg-preview-1.png",
+      "alt": "OBC client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_11209c984f1e2-removebg-preview-2.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/7Heartz.png",
+      "alt": "7Heartz client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_og-image-2-removebg-preview.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_IFZA-LOGO-_002_-removebg-preview.png",
+      "alt": "IFZA client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2026/10/logo.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "How Zoho Inventory drives success across various industries",
+    "items": [
+     {
+      "t": "Retail",
+      "p": "Manage stock levels, track sales, automate fulfillment, and integrate with e-commerce platforms.",
+      "n": "01"
+     },
+     {
+      "t": "E-commerce",
+      "p": "Manage stock across multiple platforms, automate orders, and sync inventory in real time.",
+      "n": "02"
+     },
+     {
+      "t": "Manufacturing",
+      "p": "Manage raw materials, track production, monitor finished goods, and streamline procurement.",
+      "n": "03"
+     },
+     {
+      "t": "Logistics & Transportation",
+      "p": "Track inventory in transit, manage stock across locations, and optimize supply chains.",
+      "n": "04"
+     },
+     {
+      "t": "Health & Pharmaceuticals",
+      "p": "Track stock, manage expiry dates and batch numbers, and stay compliant.",
+      "n": "05"
+     },
+     {
+      "t": "Beauty & Personal Care",
+      "p": "Manage stock, track product levels, automate fulfillment, and integrate with online stores.",
+      "n": "06"
+     }
+    ],
+    "muted": true,
+    "icon": false,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "landing-pages": {
+  "path": "/landing-pages/",
+  "title": "Zoho Landing Page Builder Setup in UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Marketing",
+    "h1": "Create high-converting pages effortlessly with Zoho’s intelligent landing page builder",
+    "lead": "Stop chasing leads—start attracting them with Zoho’s Landing Page Builder! Equipped with powerful features, customizable templates, and in-depth analytics, Zoho helps you create stunning, high-converting pages that drive results. Boost your conversions, gain valuable insights, and turn your business goals into reality with ease.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ]
+   },
+   {
+    "k": "chips",
+    "h2": "Features of Zoho Landing Pages",
+    "items": [
+     "Drag-and-Drop Editor",
+     "Pre-Designed Templates",
+     "A/B Testing",
+     "Advanced Analytics",
+     "Responsive Design",
+     "Integrations",
+     "Lead Capture Forms"
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "Unleash your creativity with Zoho’s easy landing page builder",
+    "p": "Create stunning and effective landing pages with Zoho’s intuitive builder to supercharge your marketing campaigns. Capture valuable leads with advanced forms and dynamic pop-ups, all while optimizing for higher conversions and greater business success!",
+    "items": [
+     {
+      "t": "Call-to-Action (CTA)",
+      "p": "A strategically placed button, form, or link that encourages visitors to take specific actions, such as subscribing or downloading content, helping drive conversions and achieve your marketing goals."
+     },
+     {
+      "t": "Conversion Tracking",
+      "p": "Monitor and analyze visitor actions, such as form submissions or purchases, helping you optimize your pages for better performance and higher conversion rates."
+     },
+     {
+      "t": "SEO Optimization",
+      "p": "Improve your page’s visibility on search engines by optimizing content, keywords, and meta tags, driving more organic traffic and increasing your page’s reach."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "cta",
+    "h2": "Increase engagement with dynamic, personalized landing pages that drive conversions",
+    "p": "Create engaging, data-driven landing pages with Zoho LandingPage, tailored to your audience. Use A/B testing and personalization to optimize performance, boosting conversions and ROI with strategically designed pages.",
+    "btns": [
+     {
+      "label": "Sign Up For Zoho Landing Pages",
+      "href": "https://store.zoho.com/ResellerCustomerSignUp.do?id=a18d2ca2697e7a53ceae32a22ffba12f",
+      "ext": true,
+      "primary": true
+     }
+    ]
+   },
+   {
+    "k": "logos",
+    "h2": "Trusted by Market Leaders",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_OBC-removebg-preview-1.png",
+      "alt": "OBC client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_11209c984f1e2-removebg-preview-2.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/7Heartz.png",
+      "alt": "7Heartz client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_og-image-2-removebg-preview.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_IFZA-LOGO-_002_-removebg-preview.png",
+      "alt": "IFZA client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2026/10/logo.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "How Zoho LandingPage drives success across various industries",
+    "items": [
+     {
+      "t": "Retail & Fashion",
+      "p": "Create visually appealing, high-converting pages that showcase products, promote sales, and capture leads, driving higher conversions and enhancing customer engagement.",
+      "n": "01"
+     },
+     {
+      "t": "Travel & Tourism",
+      "p": "Promote destinations, packages, and exclusive offers, capturing leads and encouraging bookings with visually appealing, high-converting pages.",
+      "n": "02"
+     },
+     {
+      "t": "Fitness & Wellness",
+      "p": "Promote memberships, programs, and services with engaging, high-converting pages that capture leads, drive sign-ups, and boost customer engagement.",
+      "n": "03"
+     },
+     {
+      "t": "Financial Services",
+      "p": "Promote products like insurance, loans, and investment plans, capturing leads with targeted pages that drive customer inquiries and increase conversions.",
+      "n": "04"
+     },
+     {
+      "t": "Education",
+      "p": "Promote courses, capture student registrations, and showcase key offerings with high-converting pages that drive engagement and boost enrollments.",
+      "n": "05"
+     },
+     {
+      "t": "E-commerce",
+      "p": "Create product-specific pages to promote sales, capture leads, and showcase discounts, driving engagement and boosting conversions for better online shopping experiences.",
+      "n": "06"
+     }
+    ],
+    "muted": true,
+    "icon": false,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "mail": {
+  "path": "/mail/",
+  "title": "Zoho Mail Business Email Setup in UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Collaboration",
+    "h1": "Elevate your business communication with a secure, professional solution with Zoho Mail",
+    "lead": "Zoho Mail provides a secure, professional email solution that enhances communication and productivity. With advanced security features and reliable uptime, it ensures your business communication stays safe and efficient.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ]
+   },
+   {
+    "k": "chips",
+    "h2": "Features of Zoho Mail",
+    "items": [
+     "Offline Access",
+     "Advanced Security",
+     "Custom Domain Email",
+     "Mobile Support",
+     "Smart Filters and Search",
+     "Customizable Signatures",
+     "Custom Folders and Filters"
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "Empower your business with secure, professional email",
+    "p": "Encryption and two-factor authentication, custom domains, seamless integration with Zoho apps, calendar scheduling, and an ad-free, clutter-free experience.",
+    "items": [
+     {
+      "t": "Data Retention Policies",
+      "p": "Set custom rules for storing, archiving, and deleting emails to stay compliant and keep full control over your organization’s email data."
+     },
+     {
+      "t": "Mailbox Management",
+      "p": "Organize email with customizable folders, labels, and filters for a streamlined, well-controlled inbox."
+     },
+     {
+      "t": "Advanced Search and Filters",
+      "p": "Find specific emails by keyword, sender, date, or attachment, and keep your inbox organized automatically."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "cta",
+    "h2": "Transform your business communication with a secure, custom email solution",
+    "p": "Custom domain emails, advanced security, integration with Zoho apps, and an ad-free experience tailored to your organization’s needs.",
+    "btns": [
+     {
+      "label": "Sign Up For Zoho Mail",
+      "href": "https://store.zoho.com/ResellerCustomerSignUp.do?id=a18d2ca2697e7a53ceae32a22ffba12f",
+      "ext": true,
+      "primary": true
+     }
+    ]
+   },
+   {
+    "k": "logos",
+    "h2": "Trusted by Market Leaders",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_OBC-removebg-preview-1.png",
+      "alt": "OBC client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_11209c984f1e2-removebg-preview-2.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/7Heartz.png",
+      "alt": "7Heartz client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_og-image-2-removebg-preview.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_IFZA-LOGO-_002_-removebg-preview.png",
+      "alt": "IFZA client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2026/10/logo.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "How Zoho Mail drives success across various industries",
+    "items": [
+     {
+      "t": "Retail",
+      "p": "Secure, professional communication with customers, vendors, and teams.",
+      "n": "01"
+     },
+     {
+      "t": "Manufacturing",
+      "p": "Secure communication between teams, suppliers, and clients.",
+      "n": "02"
+     },
+     {
+      "t": "Ad & Marketing",
+      "p": "Secure client communication and efficient team collaboration.",
+      "n": "03"
+     },
+     {
+      "t": "IT & Technology",
+      "p": "Secure communication and efficient management of client inquiries.",
+      "n": "04"
+     },
+     {
+      "t": "Healthcare",
+      "p": "Secure communication between doctors, patients, and staff.",
+      "n": "05"
+     },
+     {
+      "t": "Legal",
+      "p": "Encrypted communication that keeps client matters confidential.",
+      "n": "06"
+     }
+    ],
+    "muted": true,
+    "icon": false,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "marketing-plus": {
+  "path": "/marketing-plus/",
+  "title": "Zoho Marketing Plus Implementation in UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Marketing",
+    "h1": "Boost collaboration and streamline campaigns with Zoho Marketing Plus",
+    "lead": "Zoho Marketing Plus is designed for teams of all sizes, consolidating all your marketing efforts on a single platform. Seamlessly engage your audience across multiple channels, maximize your marketing ROI, and enhance team productivity with powerful tools and analytics.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ]
+   },
+   {
+    "k": "chips",
+    "h2": "Features of Zoho Marketing Plus",
+    "items": [
+     "Multi-Channel Campaigns",
+     "Advanced Analytics & Reporting",
+     "CRM Integration",
+     "Automation",
+     "AI-Powered Insights",
+     "Customizable Dashboards"
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "Measure marketing success with Zoho Marketing Plus and optimize campaigns with powerful insights",
+    "p": "Learn from every campaign by integrating data from all your marketing activities. With Zoho Marketing Plus’ robust analytics, you can easily track and assess the performance of each channel, campaign, and message. Make data-driven decisions that increase engagement, improve ROI, and ensure your marketing efforts have the greatest impact.",
+    "items": [
+     {
+      "t": "Multi-Channel Campaigns",
+      "p": "Create and manage campaigns across various platforms—email, social media, ads—ensuring seamless engagement with your audience and maximizing reach and impact."
+     },
+     {
+      "t": "Lead Generation & Management",
+      "p": "Capture, nurture, and track leads through customizable forms, pop-ups, and landing pages, ensuring efficient follow-ups and increasing conversion rates for your campaigns."
+     },
+     {
+      "t": "Segmentation & Personalization",
+      "p": "Group your audience based on behavior and demographics, delivering tailored content that enhances engagement, conversions, and improves overall marketing effectiveness."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "cta",
+    "h2": "Automate your marketing operations with Zoho Marketing Plus for greater efficiency and better results",
+    "p": "Create personalized multi-channel marketing journeys to engage every lead and customer. Automatically deliver tailored content based on key behaviors and preferences, including their preferred channels, interests, and previous interactions with your brand.",
+    "btns": [
+     {
+      "label": "Sign Up For Zoho Marketing Plus",
+      "href": "https://store.zoho.com/ResellerCustomerSignUp.do?id=a18d2ca2697e7a53ceae32a22ffba12f",
+      "ext": true,
+      "primary": true
+     }
+    ]
+   },
+   {
+    "k": "logos",
+    "h2": "Trusted by market leaders",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_OBC-removebg-preview-1.png",
+      "alt": "OBC client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_11209c984f1e2-removebg-preview-2.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/7Heartz.png",
+      "alt": "7Heartz client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_og-image-2-removebg-preview.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_IFZA-LOGO-_002_-removebg-preview.png",
+      "alt": "IFZA client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2026/10/logo.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "How Zoho Marketing Plus drives success across various industries",
+    "items": [
+     {
+      "t": "Automotive",
+      "p": "Helps automotive businesses manage leads, promote offers, and deliver personalized content across multiple channels, streamlining customer engagement and driving sales with automated, targeted marketing campaigns.",
+      "n": "01"
+     },
+     {
+      "t": "Manufacturing",
+      "p": "Enables manufacturing businesses to automate marketing campaigns, nurture leads, and deliver personalized content to partners, resellers, and customers, driving engagement and improving B2B communication.",
+      "n": "02"
+     },
+     {
+      "t": "Food & Beverage",
+      "p": "Helps food and beverage businesses engage customers with personalized offers, automate promotions, and collect feedback, enhancing customer loyalty and increasing sales across multiple marketing channels.",
+      "n": "03"
+     },
+     {
+      "t": "Events",
+      "p": "Helps event organizers promote events, manage registrations, and engage attendees with personalized communications, automating follow-ups and enhancing attendee experience to boost participation.",
+      "n": "04"
+     },
+     {
+      "t": "Legal Services",
+      "p": "Enables legal services to capture and nurture leads, automate client communication, and promote services, ensuring timely follow-ups, personalized engagement, and efficient management of client relationships.",
+      "n": "05"
+     },
+     {
+      "t": "Hospitality",
+      "p": "Helps hospitality businesses engage guests, promote offers, manage bookings, and send personalized communications, enhancing guest experience and increasing bookings.",
+      "n": "06"
+     }
+    ],
+    "muted": true,
+    "icon": false,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "openai-whatsapp-integrations": {
+  "path": "/openai-whatsapp-integrations/",
+  "title": "OpenAI & WhatsApp Business API Integration with Zoho | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Other Services",
+    "h1": "Streamline your business with OpenAI & Zoho integration",
+    "lead": "Unlock smarter business solutions with OpenAI and Zoho integration. Automate workflows, enhance customer support, and gain data-driven insights to improve efficiency and decision-making for a more productive, innovative business.",
+    "btns": [
+     {
+      "label": "Book Free WhatsApp Integration Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ],
+    "img": {
+     "src": "https://zoappo.com/wp-content/uploads/2025/12/create-leads.png",
+     "alt": ""
+    }
+   },
+   {
+    "k": "split",
+    "items": [
+     {
+      "h2": "Empower your business with the seamless integration of OpenAI and Zoho",
+      "ps": [
+       "Unlock the power of OpenAI integrated with Zoho, powered by Zoappo, to transform your business. This seamless integration brings AI-driven automation, enhanced support, and data insights to Zoho’s tools. With OpenAI’s natural language processing, streamline communication, personalize interactions, and automate workflows. From intelligent chatbots to valuable insights, this partnership helps your team work more efficiently and make faster decisions."
+      ]
+     }
+    ],
+    "img": null,
+    "reverse": false,
+    "muted": false
+   },
+   {
+    "k": "logos",
+    "h2": "Connects with the platforms you already use",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/zoho.png",
+      "alt": "Zoho"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/EBay_logo.png",
+      "alt": "eBay"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/razorpay.png",
+      "alt": "Razorpay"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/zapier.png",
+      "alt": "Zapier"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/woocomerce.png",
+      "alt": "WooCommerce"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/whatsapp-pay.png",
+      "alt": "WhatsApp Pay"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/amazon-pay.png",
+      "alt": "Amazon Pay"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/facebook.png",
+      "alt": "Facebook"
+     }
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "Make your business stand out on WhatsApp",
+    "p": "Seamlessly integrate WhatsApp with your e-commerce platforms, CRM systems, and online stores, ensuring effortless customer interactions and rapid business growth.",
+    "items": [
+     {
+      "t": "Integrations",
+      "p": "Join thousands of businesses seamlessly connecting with their favorite tools and enhancing customer interactions for exceptional growth.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/4526832.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Customer Support",
+      "p": "Our expert support team is here to provide fast, hassle-free assistance whenever you need it.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imagessupport.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Easy Setup",
+      "p": "Get started in just a few simple steps and integrate WhatsApp into your business operations without any disruptions.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/gear-icon-md.png",
+       "alt": ""
+      }
+     }
+    ],
+    "muted": false,
+    "icon": false,
+    "image": true,
+    "appcards": false
+   },
+   {
+    "k": "split",
+    "items": [
+     {
+      "h2": "WhatsApp Business API features",
+      "ps": [
+       "Enhance customer experience with seamless WhatsApp integration: automate alerts, notifications, and more."
+      ],
+      "list": [
+       "Get verified",
+       "Business display name",
+       "Send rich media",
+       "Drive sales with real-time offers and updates",
+       "Share multimedia content instantly",
+       "Boost engagement with customizable templates",
+       "Streamline transactions with e-receipts and invoices"
+      ]
+     }
+    ],
+    "img": {
+     "src": "https://zoappo.com/wp-content/uploads/2025/12/dec-blog-4-2.jpg",
+     "alt": "WhatsApp Business API features"
+    },
+    "reverse": false,
+    "muted": false
+   },
+   {
+    "k": "cards",
+    "items": [
+     {
+      "t": "Activity",
+      "p": "Track real-time customer interactions, manage support tickets, and analyze engagement to improve response times.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/Activity.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Support",
+      "p": "Prompt responses, quick resolutions, and personalized assistance for enhanced service.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imagessupport.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Security",
+      "p": "Encrypted communication and data protection, safeguarding both your business and customer information.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/security.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Availability",
+      "p": "24/7 availability with instant responses and reliable support.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/6156707.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Flexibility",
+      "p": "Customizable solutions that tailor communication, support, and automation to your needs.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/Scalability.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Adaptability",
+      "p": "Easy adjustments to your business needs for smooth communication and efficient support.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/Compliance.png",
+       "alt": ""
+      }
+     }
+    ],
+    "muted": false,
+    "icon": false,
+    "image": true,
+    "appcards": false
+   },
+   {
+    "k": "cta",
+    "h2": "Become the brand that feels like a friend to your customers",
+    "p": "Connect with your customers on a personal level, becoming a trusted friend they can rely on for support, updates, and genuine care.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     }
+    ]
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "practice": {
+  "path": "/practice/",
+  "title": "Zoho Practice Management Software in UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Finance & Operations",
+    "h1": "Zoho Practice: revolutionizing practice management with efficiency and ease",
+    "lead": "Zoho Practice is an all-in-one practice management software designed to streamline operations for professionals. It helps manage clients, appointments, invoicing, time tracking, and billing, all in one platform, so professionals can focus on delivering quality service.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ]
+   },
+   {
+    "k": "chips",
+    "h2": "Features of Zoho Practice",
+    "items": [
+     "Client Management",
+     "Appointment Scheduling",
+     "Document Management",
+     "Task Management",
+     "Team Collaboration",
+     "Mobile Access",
+     "Reports & Analytics"
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "The ultimate solution for managing your practice efficiently",
+    "items": [
+     {
+      "t": "Client Management",
+      "p": "Organize client details, track interactions, and securely store documents in a centralized system for better relationships and efficiency."
+     },
+     {
+      "t": "Time Tracking",
+      "p": "Log billable hours, track tasks, and monitor project progress for accurate billing and insight into time usage."
+     },
+     {
+      "t": "Invoicing & Billing",
+      "p": "Create customized invoices, automate recurring billing, track payments, and generate financial reports."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "cta",
+    "h2": "Transforming practice management with seamless efficiency",
+    "p": "Zoho Practice streamlines client interactions, simplifies time tracking, automates invoicing, and enhances team collaboration for smooth operations and happier clients.",
+    "btns": [
+     {
+      "label": "Sign Up For Zoho Practice",
+      "href": "https://store.zoho.com/ResellerCustomerSignUp.do?id=a18d2ca2697e7a53ceae32a22ffba12f",
+      "ext": true,
+      "primary": true
+     }
+    ]
+   },
+   {
+    "k": "logos",
+    "h2": "Trusted by Market Leaders",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_OBC-removebg-preview-1.png",
+      "alt": "OBC client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_11209c984f1e2-removebg-preview-2.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/7Heartz.png",
+      "alt": "7Heartz client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_og-image-2-removebg-preview.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_IFZA-LOGO-_002_-removebg-preview.png",
+      "alt": "IFZA client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2026/10/logo.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "How Zoho Practice drives success across various industries",
+    "items": [
+     {
+      "t": "Consulting",
+      "p": "Streamline client management, track billable hours, schedule appointments, and generate invoices.",
+      "n": "01"
+     },
+     {
+      "t": "IT Services",
+      "p": "Manage client projects, track hours, schedule tasks, and invoice efficiently.",
+      "n": "02"
+     },
+     {
+      "t": "Creative Agencies",
+      "p": "Manage client projects, track time, schedule meetings, and streamline workflows.",
+      "n": "03"
+     },
+     {
+      "t": "Marketing & Advertising",
+      "p": "Manage client projects, track time, schedule appointments, and generate invoices.",
+      "n": "04"
+     },
+     {
+      "t": "Education & Coaching",
+      "p": "Manage student records, schedule sessions, track billable hours, and invoice.",
+      "n": "05"
+     },
+     {
+      "t": "Engineering & Architecture",
+      "p": "Manage client projects, track billable hours, schedule tasks, and generate invoices.",
+      "n": "06"
+     }
+    ],
+    "muted": true,
+    "icon": false,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "projects": {
+  "path": "/projects/",
+  "title": "Zoho Projects Project Management Software in UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Collaboration",
+    "h1": "Boost productivity, enhance collaboration, and empower dynamic teams with Zoho Projects",
+    "lead": "Zoho Projects is designed to elevate team performance by streamlining task management, enhancing collaboration, and boosting productivity. With powerful tools for planning, tracking, and communication, it empowers dynamic teams to achieve their goals efficiently and on time.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ]
+   },
+   {
+    "k": "chips",
+    "h2": "Features of Zoho Projects",
+    "items": [
+     "Task Management",
+     "Gantt Charts",
+     "Time Tracking",
+     "Document Management",
+     "Customizable Visualizations",
+     "Reports and Analytics",
+     "Mobile App"
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "Streamline your workflow and save time with task automation",
+    "p": "Automate repetitive tasks, from assigning roles to sending notifications, and focus on what matters most while automation handles the rest.",
+    "items": [
+     {
+      "t": "Integrations",
+      "p": "Integrates with Google Drive, Slack, Zoho CRM, and more to sync data, collaborate effectively, and streamline workflows."
+     },
+     {
+      "t": "Dependencies",
+      "p": "Define task dependencies so work happens in the right sequence, preventing bottlenecks and optimizing resources."
+     },
+     {
+      "t": "Automation",
+      "p": "Automate notifications, status updates, and task assignments to reduce manual effort and boost productivity."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "cta",
+    "h2": "Integrate Zoho Projects seamlessly with your favorite apps",
+    "p": "Connect Google Drive, Slack, Zoho CRM, and more. Sync data, automate workflows, and collaborate effortlessly across all your platforms.",
+    "btns": [
+     {
+      "label": "Sign Up For Zoho Projects",
+      "href": "https://store.zoho.com/ResellerCustomerSignUp.do?id=a18d2ca2697e7a53ceae32a22ffba12f",
+      "ext": true,
+      "primary": true
+     }
+    ]
+   },
+   {
+    "k": "logos",
+    "h2": "Trusted by Market Leaders",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_OBC-removebg-preview-1.png",
+      "alt": "OBC client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_11209c984f1e2-removebg-preview-2.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/7Heartz.png",
+      "alt": "7Heartz client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_og-image-2-removebg-preview.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_IFZA-LOGO-_002_-removebg-preview.png",
+      "alt": "IFZA client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2026/10/logo.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "How Zoho Projects drives success across various industries",
+    "items": [
+     {
+      "t": "Retail & E-Commerce",
+      "p": "Manage product launches, campaigns, inventory tracking, and customer service projects.",
+      "n": "01"
+     },
+     {
+      "t": "Finance & Accounting",
+      "p": "Manage tax filings, audits, financial reporting, and client projects with clear deadlines.",
+      "n": "02"
+     },
+     {
+      "t": "Marketing & Advertising",
+      "p": "Plan campaigns, track deliverables, manage client expectations, and collaborate efficiently.",
+      "n": "03"
+     },
+     {
+      "t": "IT & Technology",
+      "p": "Manage software development, track milestones, and coordinate tasks for timely delivery.",
+      "n": "04"
+     },
+     {
+      "t": "Consulting",
+      "p": "Manage client projects, track progress, allocate resources, and meet deadlines.",
+      "n": "05"
+     },
+     {
+      "t": "Creative Agencies",
+      "p": "Manage client projects, track deadlines, and collaborate on designs within budget.",
+      "n": "06"
+     }
+    ],
+    "muted": true,
+    "icon": false,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "recruit": {
+  "path": "/recruit/",
+  "title": "Zoho Recruit ATS & Hiring Software in UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "HRMS",
+    "h1": "Zoho Recruit: revolutionizing recruitment with AI-powered, streamlined hiring",
+    "lead": "Zoho Recruit transforms the hiring process by leveraging AI-powered tools to streamline candidate sourcing, interview scheduling, and candidate evaluation. It simplifies recruitment workflows, enhances collaboration, and ensures faster, more efficient talent acquisition.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ]
+   },
+   {
+    "k": "chips",
+    "h2": "Features of Zoho Recruit",
+    "items": [
+     "AI-Powered Candidate Sourcing",
+     "Customizable Job Portals",
+     "Applicant Tracking System (ATS)",
+     "Resume Parsing",
+     "Interview Scheduling",
+     "Candidate Database",
+     "Automated Emails & Alerts"
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "Recruit, attract, and engage top talent with Zoho’s all-in-one talent acquisition solution",
+    "p": "Streamline your hiring process, leverage AI-powered tools, and enhance candidate experience to secure top talent efficiently.",
+    "items": [
+     {
+      "t": "Applicant Tracking System (ATS)",
+      "p": "Track candidates from application to hire. Automate workflows, centralize candidate data, get real-time updates, and enhance collaboration among hiring teams."
+     },
+     {
+      "t": "Job Requisition Management",
+      "p": "Create, approve, and manage job openings with customizable workflows, ensuring efficient recruitment planning and streamlined approvals."
+     },
+     {
+      "t": "Collaboration & Feedback",
+      "p": "Hiring teams can share candidate profiles, give detailed feedback, and discuss decisions in real time for a more efficient recruitment process."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "cta",
+    "h2": "Zoho Recruit delivers tailored solutions for targeted recruitment",
+    "p": "Customized recruitment designed for the unique needs of your hiring process. With AI-powered sourcing, advanced filtering, and seamless collaboration, target and attract the right talent efficiently.",
+    "btns": [
+     {
+      "label": "Sign Up For Zoho Recruit",
+      "href": "https://store.zoho.com/ResellerCustomerSignUp.do?id=a18d2ca2697e7a53ceae32a22ffba12f",
+      "ext": true,
+      "primary": true
+     }
+    ]
+   },
+   {
+    "k": "logos",
+    "h2": "Trusted by Market Leaders",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_OBC-removebg-preview-1.png",
+      "alt": "OBC client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_11209c984f1e2-removebg-preview-2.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/7Heartz.png",
+      "alt": "7Heartz client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_og-image-2-removebg-preview.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_IFZA-LOGO-_002_-removebg-preview.png",
+      "alt": "IFZA client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2026/10/logo.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "How Zoho Recruit drives success across various industries",
+    "items": [
+     {
+      "t": "IT & Technology",
+      "p": "Source, manage, and track top talent for roles like software developers, engineers, and IT specialists.",
+      "n": "01"
+     },
+     {
+      "t": "Manufacturing",
+      "p": "Streamline hiring for technicians, engineers, and production managers with simpler requisitions and tracking.",
+      "n": "02"
+     },
+     {
+      "t": "Healthcare",
+      "p": "Hire doctors, nurses, technicians, and administrative staff with streamlined sourcing and compliance tracking.",
+      "n": "03"
+     },
+     {
+      "t": "Recruitment Agencies",
+      "p": "Streamline sourcing, track applications, manage requisitions, and simplify client communications.",
+      "n": "04"
+     },
+     {
+      "t": "Finance & Accounting",
+      "p": "Hire skilled accountants and auditors with simpler candidate tracking and compliance management.",
+      "n": "05"
+     },
+     {
+      "t": "Transportation & Logistics",
+      "p": "Recruit drivers, warehouse staff, and logistics coordinators efficiently with simplified requisitions.",
+      "n": "06"
+     }
+    ],
+    "muted": true,
+    "icon": false,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "sales-iq": {
+  "path": "/sales-iq/",
+  "title": "Zoho SalesIQ Live Chat & AI Chatbots in UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Sales",
+    "h1": "Enhance Engagement, Intelligent Chat and Real-Time Support with Zoho SalesIQ",
+    "lead": "Zoho SalesIQ boosts customer engagement with AI-powered chat solutions, offering real-time support and personalized interactions. It helps businesses connect with customers instantly, track behavior, and provide seamless support, improving conversion rates and customer satisfaction. With advanced features like live chat, automated triggers, and analytics, Zoho SalesIQ enables you to deliver smarter, more efficient customer service.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ]
+   },
+   {
+    "k": "chips",
+    "h2": "Powerful features for exceptional engagement",
+    "items": [
+     "AI-first Smart Chatbots",
+     "Visitor Tracking",
+     "Targeting and Routing",
+     "Helpdesk & CRM Integration",
+     "Communication Modes",
+     "WhatsApp Integration",
+     "Team Collaboration",
+     "Automation & Customization"
+    ]
+   },
+   {
+    "k": "logos",
+    "h2": "Trusted by market leaders",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_OBC-removebg-preview-1.png",
+      "alt": "OBC client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_11209c984f1e2-removebg-preview-2.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/7Heartz.png",
+      "alt": "7Heartz client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_og-image-2-removebg-preview.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_IFZA-LOGO-_002_-removebg-preview.png",
+      "alt": "IFZA client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2026/10/logo.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "Zoho SalesIQ Features & Use Cases",
+    "p": "No matter what industry your business belongs to or what business function you’re in, SalesIQ can help it grow while fulfilling all your customer engagement plans and can enhance your overall customer experience.",
+    "items": [
+     {
+      "t": "Conversational AI",
+      "p": "Conversational AI enables machines to understand human intent and emotions from text or speech, responding naturally by mimicking human conversation. It uses NLP and machine learning to create personalized, intelligent interactions."
+     },
+     {
+      "t": "Chatbot",
+      "p": "Chatbots, the first line of communication in customer-facing industries, take the load off support teams. They’re a powerful addition to every industry as they’re cheaper, scalable, and easy to deploy."
+     },
+     {
+      "t": "Live Chat Software",
+      "p": "Live chat software is a tool interface that enables conversations between businesses and customers via the chat widget for instant reach out and assistance, irrespective of the medium and devices."
+     },
+     {
+      "t": "Instant Messaging Channel",
+      "p": "Instant messaging channels for customer communication went from being a “nice-to-have” option to becoming a crucial feature prospects and customers expect as it offers scores of benefits."
+     },
+     {
+      "t": "Customer Engagement",
+      "p": "Customer engagement is a deliberate, ongoing process aimed at building strong relationships with customers. It focuses on earning trust, fostering loyalty, and providing value that extends beyond transactions."
+     },
+     {
+      "t": "Omnichannel Customer Service",
+      "p": "Omnichannel customer service lets customers reach support across multiple channels and devices. Businesses can respond with consistent, personalized assistance, no matter how or where customers connect."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "logos",
+    "h2": "Zoho SalesIQ integrates with all of your apps",
+    "p": "Connect your favorite apps to Zoho SalesIQ to enjoy an uninterrupted flow of data from one system to another. With over 30+ integrations—covering CMS, email marketing, analytics, and more—you’ll be able to close deals faster than ever with Zoho SalesIQ.",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/14.png_m.png",
+      "alt": "SalesIQ integration"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/15.png_m.png",
+      "alt": "SalesIQ integration"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/16.png_m.png",
+      "alt": "SalesIQ integration"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/7.png_m.png",
+      "alt": "SalesIQ integration"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/5.png_m.png",
+      "alt": "SalesIQ integration"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/6.png_m.png",
+      "alt": "SalesIQ integration"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/4.png_m.png",
+      "alt": "SalesIQ integration"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/13.png_m.png",
+      "alt": "SalesIQ integration"
+     }
+    ]
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "sign": {
+  "path": "/sign/",
+  "title": "Zoho Sign Digital Signatures in UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Custom Processes",
+    "h1": "Legally binding signatures and secure compliance with Zoho Sign",
+    "lead": "Zoho Sign provides businesses with a secure, legally binding document signing solution. It ensures compliance with industry standards, offers easy-to-use features, and enhances security, allowing you to sign, send, and manage documents digitally with confidence and efficiency.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ]
+   },
+   {
+    "k": "chips",
+    "h2": "Features of Zoho Sign",
+    "items": [
+     "Legally Binding Signatures",
+     "Templates",
+     "Multi-User Support",
+     "Audit Trail",
+     "Custom Branding",
+     "Integrations",
+     "Mobile-Friendly"
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "Your central hub for managing customer experiences across all touchpoints",
+    "p": "Zoho Sign streamlines document signing and approvals across multiple touchpoints. It offers a secure, paperless solution, enhancing efficiency and speeding up transactions while maintaining high security and compliance.",
+    "items": [
+     {
+      "t": "Enforceable E-Signatures",
+      "p": "Legally valid agreements with advanced security and compliance, offering a fast solution for businesses to manage contracts and approvals."
+     },
+     {
+      "t": "Compliance and Security",
+      "p": "Strict compliance with global standards like GDPR and eIDAS, with encryption and secure storage protecting your documents."
+     },
+     {
+      "t": "Seamless Integration",
+      "p": "Integrates with Zoho apps and third-party tools, simplifying document workflows and the efficient management of contracts and approvals."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "cta",
+    "h2": "Offer customers seamless signing across all channels",
+    "p": "Zoho Sign enables omnichannel engagement by allowing customers to securely sign documents across multiple platforms, ensuring faster transactions and an enhanced user experience.",
+    "btns": [
+     {
+      "label": "Sign Up For Zoho Sign",
+      "href": "https://store.zoho.com/ResellerCustomerSignUp.do?id=a18d2ca2697e7a53ceae32a22ffba12f",
+      "ext": true,
+      "primary": true
+     }
+    ]
+   },
+   {
+    "k": "logos",
+    "h2": "Trusted by Market Leaders",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_OBC-removebg-preview-1.png",
+      "alt": "OBC client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_11209c984f1e2-removebg-preview-2.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/7Heartz.png",
+      "alt": "7Heartz client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_og-image-2-removebg-preview.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_IFZA-LOGO-_002_-removebg-preview.png",
+      "alt": "IFZA client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2026/10/logo.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "Zoho Sign across industries",
+    "items": [
+     {
+      "t": "Human Resources",
+      "p": "Secure, legally binding signing for contracts, offer letters, and onboarding forms, streamlining the hiring process.",
+      "n": "01"
+     },
+     {
+      "t": "Legal",
+      "p": "Legally binding electronic signatures for contracts and agreements, streamlining legal processes with transparency and security.",
+      "n": "02"
+     },
+     {
+      "t": "Banking & Finance",
+      "p": "Digital signatures for loan agreements, contracts, and financial documents, ensuring compliance and faster transactions.",
+      "n": "03"
+     },
+     {
+      "t": "Government",
+      "p": "Secure e-signatures for contracts, forms, and agreements, ensuring transparency and faster processing of official documents.",
+      "n": "04"
+     },
+     {
+      "t": "Healthcare",
+      "p": "Capture e-signatures securely, streamline patient consent forms, and improve workflow efficiency while protecting confidential data.",
+      "n": "05"
+     },
+     {
+      "t": "Real Estate",
+      "p": "Paperless e-signatures for contracts, agreements, and leases, reducing paperwork and ensuring regulatory compliance.",
+      "n": "06"
+     }
+    ],
+    "muted": true,
+    "icon": false,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "social": {
+  "path": "/social/",
+  "title": "Zoho Social Media Management in UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Marketing",
+    "h1": "The simplest way to manage your brands on social media",
+    "lead": "With Zoho Social, effortlessly schedule an unlimited number of posts across your social media platforms, track crucial metrics in real-time, and generate customized reports that provide in-depth insights into your social media performance. Stay ahead of the curve by analyzing engagement trends, audience behavior, and content effectiveness to continuously refine your strategy and boost your brand’s presence online.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ]
+   },
+   {
+    "k": "chips",
+    "h2": "Features of Zoho Social",
+    "items": [
+     "Multi Platform Support",
+     "Post Scheduling",
+     "Social Media Monitoring",
+     "Analytics & Reporting",
+     "Team Collaboration",
+     "Social Media Inbox",
+     "Campaign Management"
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "Master your social media strategy with Zoho Social’s powerful tools and insights",
+    "p": "Easily schedule and automate posts across multiple platforms, track key metrics in real-time, and monitor brand mentions, keywords, and hashtags. Generate custom reports for deeper analysis and decision-making, while collaborating seamlessly with your team.",
+    "items": [
+     {
+      "t": "Scheduling",
+      "p": "Plan and automate posts across multiple platforms, ensuring timely, consistent content delivery effortlessly."
+     },
+     {
+      "t": "Monitoring",
+      "p": "Track brand mentions, relevant keywords, and hashtags, giving you real-time insights to engage with your audience and manage reputation."
+     },
+     {
+      "t": "Reporting",
+      "p": "Customizable, in-depth insights into your social media performance, helping you track growth and engagement."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "cta",
+    "h2": "Effortless and flexible scheduling to save you time and boost efficiency",
+    "p": "Plan and automate your posts in advance, saving you valuable time and effort. Stay consistent and organized by scheduling content across multiple platforms, and ensure your posts go live at the perfect times to maximize engagement.",
+    "btns": [
+     {
+      "label": "Sign Up For Zoho Social",
+      "href": "https://store.zoho.com/ResellerCustomerSignUp.do?id=a18d2ca2697e7a53ceae32a22ffba12f",
+      "ext": true,
+      "primary": true
+     }
+    ]
+   },
+   {
+    "k": "logos",
+    "h2": "Trusted by Market Leaders",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_OBC-removebg-preview-1.png",
+      "alt": "OBC client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_11209c984f1e2-removebg-preview-2.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/7Heartz.png",
+      "alt": "7Heartz client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_og-image-2-removebg-preview.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_IFZA-LOGO-_002_-removebg-preview.png",
+      "alt": "IFZA client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2026/10/logo.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "More ways Zoho Social helps your brand",
+    "items": [
+     {
+      "t": "Social Listening",
+      "p": "Monitor brand mentions, keywords, and industry trends. Stay updated with real-time conversations to improve engagement, track competitor activity, and manage your online reputation."
+     },
+     {
+      "t": "Custom Workflows",
+      "p": "Automate tasks like content approval, scheduling, and team collaboration. Streamline your social media processes and ensure smooth, organized operations for your team."
+     },
+     {
+      "t": "Clientele",
+      "p": "Agencies can manage multiple clients’ social media accounts, create tailored workflows, and streamline communication and campaign tracking for each client."
+     },
+     {
+      "t": "Audience Insights",
+      "p": "Valuable data about your followers’ demographics, behaviors, and preferences to refine your content strategy, improve engagement, and target your audience more effectively."
+     },
+     {
+      "t": "Branding",
+      "p": "Maintain a consistent and professional image across all social media platforms. Customize your profiles, posts, and content to reflect your brand’s identity."
+     },
+     {
+      "t": "URL Tracking",
+      "p": "Track the performance of shared links across platforms, with insights into clicks, user engagement, and conversion rates to optimize your content strategy and ROI."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "thank-you": {
+  "path": "/thank-you/",
+  "title": "Thank you | Zoappo",
+  "blocks": [
+   {
+    "k": "text",
+    "h2": "Thank you, we’ve received your enquiry",
+    "ps": [
+     "A certified Zoho consultant will get back to you within 24 hours. For anything urgent, call or WhatsApp us.",
+     "Read our Zoho guides while you wait."
+    ]
+   }
+  ]
+ },
+ "web-mobile-development": {
+  "path": "/web-mobile-development/",
+  "title": "Web & Mobile App Development Company in Dubai | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Other Services",
+    "h1": "Empowering your business with AI-driven web & mobile development",
+    "lead": "Zoappo delivers cutting-edge web and mobile solutions using the latest technologies like React, Flutter, and Node.js. We create seamless, scalable, and custom experiences that help your business grow and stay ahead in the digital world.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ],
+    "img": {
+     "src": "https://zoappo.com/wp-content/uploads/2025/12/Website-Banner-Services-India.png",
+     "alt": ""
+    }
+   },
+   {
+    "k": "cards",
+    "h2": "Innovative web & mobile app development solutions",
+    "items": [
+     {
+      "t": "Web App Development",
+      "p": "Custom, reliable web app development using advanced technology that delivers results, tailored to your business and designed to adapt for continuous growth."
+     },
+     {
+      "t": "Mobile App Integration",
+      "p": "Seamless mobile app integration with key platforms, tools, and services for a unified user experience and maximum efficiency."
+     },
+     {
+      "t": "Mobile App QA and Testing",
+      "p": "Rigorous, security-first testing to protect your app and user data, identify vulnerabilities, and meet the highest security standards."
+     },
+     {
+      "t": "Maintenance and Support",
+      "p": "From bug fixes to performance upgrades, we adapt to new OS versions and user needs to keep your mobile solution running smoothly."
+     },
+     {
+      "t": "Mobile App Modernization",
+      "p": "A cost-effective way to update your existing app, improving performance, security, and overall user satisfaction."
+     },
+     {
+      "t": "Cross Platform Development",
+      "p": "High-performance apps that work flawlessly on iOS and Android, built by our expert team with advanced technologies."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "tech",
+    "h2": "Unlock the power of advanced tech solutions",
+    "groups": [
+     {
+      "t": "Mobile Application",
+      "items": [
+       {
+        "n": "iOS",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_3_tech-stacks-ios.png",
+         "alt": "iOS"
+        }
+       },
+       {
+        "n": "Android",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_tech-stacks-android.png",
+         "alt": "Android"
+        }
+       },
+       {
+        "n": "Kotlin",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_5_tech-stacks-kotlin.png",
+         "alt": "Kotlin"
+        }
+       },
+       {
+        "n": "React Native",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_6_tech-stacks-react-js.png",
+         "alt": "React Native"
+        }
+       },
+       {
+        "n": "Flutter",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_tech-stacks-flutter.png",
+         "alt": "Flutter"
+        }
+       }
+      ]
+     },
+     {
+      "t": "Front End",
+      "items": [
+       {
+        "n": "Angular",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_tech-stacks-angular.png",
+         "alt": "Angular"
+        }
+       },
+       {
+        "n": "Swift",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_9_tech-stacks-swift.png",
+         "alt": "Swift"
+        }
+       },
+       {
+        "n": "Knockout.js",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_10_tech-stacks-knockoutjs.png",
+         "alt": "Knockout.js"
+        }
+       },
+       {
+        "n": "React",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_6_tech-stacks-react-js.png",
+         "alt": "React"
+        }
+       }
+      ]
+     },
+     {
+      "t": "Back End",
+      "items": [
+       {
+        "n": "C#",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_tech-stacks-c-sharp.png",
+         "alt": "C#"
+        }
+       },
+       {
+        "n": "Node.js",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_12_tech-stacks-node-js.png",
+         "alt": "Node.js"
+        }
+       },
+       {
+        "n": ".NET Core",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_13_tech-stacks-dot-netcore.png",
+         "alt": ".NET Core"
+        }
+       },
+       {
+        "n": "Python",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_14_tech-stacks-python.png",
+         "alt": "Python"
+        }
+       },
+       {
+        "n": "Java",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_15_tech-stacks-java-dev.png",
+         "alt": "Java"
+        }
+       }
+      ]
+     },
+     {
+      "t": "Database",
+      "items": [
+       {
+        "n": "MongoDB",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_16_tech-stacks-mongo.png",
+         "alt": "MongoDB"
+        }
+       },
+       {
+        "n": "SQL Server",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_17_tech-stacks-sqlserver.png",
+         "alt": "SQL Server"
+        }
+       },
+       {
+        "n": "PostgreSQL",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_18_tech-stacks-postgresql.png",
+         "alt": "PostgreSQL"
+        }
+       },
+       {
+        "n": "MySQL",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_19_tech-stacks-mysql.png",
+         "alt": "MySQL"
+        }
+       }
+      ]
+     },
+     {
+      "t": "Open Source",
+      "items": [
+       {
+        "n": "WordPress",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_20_tech-stacks-wordpress.png",
+         "alt": "WordPress"
+        }
+       },
+       {
+        "n": "Magento",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_21_tech-stacks-meganto.png",
+         "alt": "Magento"
+        }
+       },
+       {
+        "n": "Shopify",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_22_tech-stacks-shopify.png",
+         "alt": "Shopify"
+        }
+       },
+       {
+        "n": "DNN",
+        "img": {
+         "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_23_tech-stacks-dnn.png",
+         "alt": "DNN"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "k": "steps",
+    "h2": "How we deliver",
+    "items": [
+     {
+      "t": "Requirement Analysis",
+      "p": "A clear understanding of your needs for successful project development."
+     },
+     {
+      "t": "Planning & Design",
+      "p": "A strategic roadmap for seamless execution and success."
+     },
+     {
+      "t": "Development",
+      "p": "High-quality, scalable solutions tailored to your needs."
+     },
+     {
+      "t": "Testing",
+      "p": "Flawless performance through rigorous quality assurance."
+     },
+     {
+      "t": "Deployment",
+      "p": "A smooth, efficient launch for optimal app performance."
+     },
+     {
+      "t": "Deliver & Maintenance",
+      "p": "Reliable delivery and ongoing maintenance for app performance."
+     }
+    ]
+   },
+   {
+    "k": "form",
+    "h2": "Ready to discuss your mobile app idea? We’re here to help, just a call away.",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "zoho-bigin": {
+  "path": "/zoho-bigin/",
+  "title": "Zoho Bigin CRM for Small Businesses in UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Sales",
+    "h1": "The Most Revenue Generating CRM to Manage your Business Opportunities",
+    "lead": "Bigin easily transforms your day-to-day customer processes into actionable pipelines. From qualifying leads to closing deals to managing important after-sales operations—Bigin connects your different teams to work together so that you can offer the best possible experience to your customers.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ],
+    "img": {
+     "src": "https://zoappo.com/wp-content/uploads/2025/12/unnamed-41.png",
+     "alt": ""
+    }
+   },
+   {
+    "k": "chips",
+    "h2": "Features Zoho Bigin adds to your sales team’s growth",
+    "items": [
+     "Team Pipelines",
+     "Customer Context",
+     "Social Collaboration",
+     "WhatsApp Integration",
+     "Sales Automation",
+     "Invoicing & Payment Links",
+     "Business Intelligence",
+     "Mobile Apps"
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "Consolidate your operations into one platform with Zoho Bigin",
+    "items": [
+     {
+      "t": "Forms",
+      "p": "Quickly create customized forms, share them across multiple channels and capture a wide range of data from your customers and prospects."
+     },
+     {
+      "t": "Team Pipelines",
+      "p": "Unify all your customer-facing operations with team pipelines. Your Bigin account can be the single source of truth for all your customer operations."
+     },
+     {
+      "t": "Connected Pipelines",
+      "p": "Zoho Bigin’s connected pipelines streamline sales processes, enabling efficient management and collaboration across multiple stages and teams."
+     },
+     {
+      "t": "WhatsApp Integration",
+      "p": "Communicate via WhatsApp chats, be equipped with all the necessary information while engaging with a contact and streamline overall contact management."
+     },
+     {
+      "t": "Mass Email",
+      "p": "Carrying out email campaigns with Bigin is as easy as it gets! Create and send out mass emails to your target audience and get in-depth insights into your campaigns."
+     },
+     {
+      "t": "Workflow Automation",
+      "p": "Automate routine tasks and bid farewell to manual work. Track your deals, set up email alerts, and do much more with Bigin’s workflows."
+     },
+     {
+      "t": "Activity Management",
+      "p": "Maintain an overview of all your important activities, like tasks, calls, and events. Notify your teammates with @mentions and collaborate effortlessly."
+     },
+     {
+      "t": "Multi-currency",
+      "p": "Create deals in international currencies based on where your customers are while also setting a home currency for your organization."
+     },
+     {
+      "t": "Dashboards & Analytics",
+      "p": "Analyze, track, and measure all your essential metrics in one place and gain more clarity into your business anytime, anywhere."
+     },
+     {
+      "t": "Stage Transition Rules",
+      "p": "Maintain consistency across deals by setting rules that ensure deals don’t proceed to a certain stage until vital details are secured from customers."
+     },
+     {
+      "t": "Bigin add-on for Gmail",
+      "p": "Automatically capture contacts from your Gmail inbox without switching tabs between applications."
+     },
+     {
+      "t": "GDPR",
+      "p": "Bigin helps you stay GDPR-compliant by ensuring the consensual collection and transparent processing of customer information."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "split",
+    "items": [
+     {
+      "h2": "With Bigin as your CRM, you can leave the heavy lifting to us and focus on your customers",
+      "ps": [
+       "Say goodbye to missing follow-ups, manual data entry, lack of team communication, and information silos. Just Bigin today!"
+      ]
+     }
+    ],
+    "img": {
+     "src": "https://zoappo.com/wp-content/uploads/2025/12/unnamed-41.png",
+     "alt": "With Bigin as your CRM, you can leave the heavy lifting to us and focus on your customers"
+    },
+    "reverse": false,
+    "muted": false
+   },
+   {
+    "k": "split",
+    "items": [
+     {
+      "h2": "How Bigin can help you grow!",
+      "ps": [],
+      "list": [
+       "Bigin templates for businesses come with modules, fields and pipeline stages tailored to provide businesses belonging to any industries the right fit.",
+       "Forget setting up your CRM. Flexible beyond bounds, Bigin’s modules and fields can be customized to truly resonate with the sound of your business.",
+       "Can’t find an exact match to your needs? Don’t worry, the Zoappo team will get Bigin to work to your tune."
+      ]
+     }
+    ],
+    "img": null,
+    "reverse": false,
+    "muted": false
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "zoho-creator": {
+  "path": "/zoho-creator/",
+  "title": "Zoho Creator Low-Code Custom App Development in UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Custom Processes",
+    "h1": "Empower your business with automation-built custom apps. Work less and deliver more.",
+    "lead": "Zoho Creator is a low-code platform for building custom apps to automate workflows and manage processes. With a user-friendly interface, it offers features like drag-and-drop design, data integration, reporting, and automation, helping businesses streamline operations and enhance efficiency.",
+    "btns": [
+     {
+      "label": "Book Free Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ]
+   },
+   {
+    "k": "chips",
+    "h2": "Features of Zoho Creator",
+    "items": [
+     "Drag and Drop Interface",
+     "Workflow Automation",
+     "Custom Forms & Reports",
+     "Integration Capabilities",
+     "Real-Time Collaboration",
+     "Mobile Access",
+     "Role-Based Permissions"
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "Unlock the power of low code for app development and automation",
+    "items": [
+     {
+      "t": "Rich customer experience",
+      "p": "Digital transformation opens up omnichannel customer experiences, enabling customers to reach out via phone, chat, email, mobile app, or support forum."
+     },
+     {
+      "t": "Organisation-level agility",
+      "p": "Digitizing core processes with low-code gives the power to experiment, get new ideas and rapidly iterate processes across the company."
+     },
+     {
+      "t": "Increased business automation",
+      "p": "Automating high volume repeatable tasks like data entry frees up resources to work on more revenue generating activities instead."
+     },
+     {
+      "t": "Security",
+      "p": "Enjoy full transparency and peace of mind on when and how your business data is being used, with comprehensive, enterprise-grade security controls."
+     },
+     {
+      "t": "Better process control",
+      "p": "As more businesses work to improve services and processes as part of their digital transformation efforts, automation will play an increasingly important role."
+     },
+     {
+      "t": "Personalization",
+      "p": "Customize the look of your app, upload your logo, and connect stakeholders through your domain. The applications are then yours to resell."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "logos",
+    "h2": "Trusted by Market Leaders",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_OBC-removebg-preview-1.png",
+      "alt": "OBC client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_11209c984f1e2-removebg-preview-2.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/7Heartz.png",
+      "alt": "7Heartz client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_og-image-2-removebg-preview.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_IFZA-LOGO-_002_-removebg-preview.png",
+      "alt": "IFZA client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2026/10/logo.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "cta",
+    "h2": "Turn your ideas into apps with Zoho Creator",
+    "p": "A business automation platform designed to simplify app development. With 90% of complexities abstracted, you can effortlessly create custom apps without coding from scratch. From idea to execution, we prioritize features, business value, and customer experience, so you can focus on innovation, not coding.",
+    "btns": [
+     {
+      "label": "Sign Up For Creator",
+      "href": "https://store.zoho.com/ResellerCustomerSignUp.do?id=a18d2ca2697e7a53ceae32a22ffba12f",
+      "ext": true,
+      "primary": true
+     }
+    ]
+   },
+   {
+    "k": "steps",
+    "h2": "From idea to deployed app",
+    "items": [
+     {
+      "t": "Build",
+      "p": "Stop spending your time, money, and effort coding on different tools. Build, deploy, and manage digital workplace tools across web and mobile, all from a single platform."
+     },
+     {
+      "t": "Model",
+      "p": "Create applications that can handle any type of data, visualize them graphically, and build relationships to ensure their interactions are error-free."
+     },
+     {
+      "t": "Automate",
+      "p": "Stop sending emails, waiting for approvals, manually manipulating data, and creating reports. Automate every step of your complex process."
+     },
+     {
+      "t": "Integrate",
+      "p": "Deeply integrate your application with an array of third-party services, in addition to the Zoho business suite of products."
+     },
+     {
+      "t": "Personalise",
+      "p": "From personalized UX design and white-labelling to localized business apps, Zoho Creator provides the tools you need to revolutionize how you do business."
+     },
+     {
+      "t": "Deploy",
+      "p": "Distribute mobile apps through Google Play and the App Store, or through the MDM of choice, so users can access apps on mobile devices."
+     }
+    ]
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "zoho-crm": {
+  "path": "/zoho-crm/",
+  "title": "Zoho CRM Implementation Partner in Dubai, UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Sales",
+    "h1": "The most lovable CRM to build lasting relationships with your customers",
+    "lead": "Convert more opportunities, and grow your business resiliently, with contextual and thoughtful UI. Your CRM needs to evolve as quickly as your business does. Zoho CRM offers the customizability, feature depth, and product stability required to effectively manage a large-scale organization across all departments, markets, and geographic locations.",
+    "btns": [
+     {
+      "label": "Book Free Expert Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ]
+   },
+   {
+    "k": "chips",
+    "h2": "Built for every customer-facing team",
+    "items": [
+     "Artificial Intelligence",
+     "Lead Management",
+     "Account Management",
+     "Customer Experience",
+     "Business Intelligence",
+     "Customer Service",
+     "Journey Orchestration"
+    ]
+   },
+   {
+    "k": "cards",
+    "h2": "All the features that make selling faster, easier and smoother",
+    "p": "Zoho CRM offers everything you need to increase leads, accelerate sales, and measure sales performance.",
+    "items": [
+     {
+      "t": "Lead Management",
+      "p": "Capture leads, automate lead scoring, identify leads that will convert, and follow up with detailed contact information.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/Screenshot_2025-01-05_at_2.16.18_PM-removebg-preview.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Deal Management",
+      "p": "Close more deals in less time. Track what stage your deals are currently in, and seize every opportunity at the optimal moment.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/Deal-Management.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Lead Nurturing",
+      "p": "Strengthen your relationship with your leads by nurturing them with relevant content at every stage of your funnel.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/lead-nurturing.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Sales Process Builder",
+      "p": "Bring your offline sales processes into your CRM and make sure all your sales reps follow it at every turn.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/Salesprocess-Builder.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Lead & Deal Prediction",
+      "p": "Zia can predict the likelihood of success for every lead and deal in your CRM, making life simpler for your team.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/Lead-deal-Precition.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Contact Management",
+      "p": "Get real time insights about your customers, connect with them across channels and build strong relationships.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/Contact-Management.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Partner Portals",
+      "p": "Grow your business by giving partners access to create and nurture leads, manage inventory and view their contacts.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/Partner-Portals.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Analytics",
+      "p": "Create dashboards, analyze trends, stay on top of your key performance indicators and know where you stand on your targets.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/Analytics.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Quotes & Finance",
+      "p": "Generate quotes, invoices, and orders with access to inventory, shipping and subscription information with Zoho CRM.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/Quotes-and-Finance.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Customer Segmentation",
+      "p": "Segment your contacts and target them with personalized campaigns to improve engagement, retention and ROI on marketing campaigns.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/Customer-Segmentation.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Territory Management",
+      "p": "Categorize customers based on relevant criteria and assign the right sales reps to reach out to them. Exceed quotas with region-wide sales insights.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/Territory-Management.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Mobile Apps",
+      "p": "Stay on top of business everywhere, all the time with Zoho CRM Mobile Edition. Be better informed, stay connected to clients and colleagues, and react to fast-moving changes.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/Mobile-App.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Functions",
+      "p": "Write event-driven and serverless Deluge, Java, Node.js or Python code to work with Zoho CRM data and workflows.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/Functions.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Global Selling",
+      "p": "Provide multi-language and multi-currency support to your team so you can sell to customers around the world.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/Global-Selling.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Customer Portals",
+      "p": "Provide prospects with a self-service portal where they can view your products and make purchasing decisions.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/Customer-Portals.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Data Security and Compliance",
+      "p": "With comprehensive data security features, protect both your data and your customers’ from unauthorized access.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/data-security.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Web and Mobile SDK",
+      "p": "Build web and mobile solutions on your Zoho CRM account without having to worry about any underlying architecture.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/web-mobile-SDK.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Journey Builder",
+      "p": "Journey Builder is a drag and drop visual editor which allows you to define cross platform journeys and orchestrate more relevant brand responses.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/Journey-Builder.png",
+       "alt": ""
+      }
+     }
+    ],
+    "muted": false,
+    "icon": false,
+    "image": true,
+    "appcards": false
+   },
+   {
+    "k": "stat",
+    "n": "100 million+",
+    "l": "users are thriving and trusting Zoho CRM in millions of companies",
+    "muted": false
+   },
+   {
+    "k": "split",
+    "items": [
+     {
+      "h2": "Customize Zoho CRM for your industry",
+      "ps": [
+       "With their own special challenges, businesses in vertical markets struggle to find solutions that fit their needs. However, the flexibility and depth of customization offered by Zoho CRM empowers every business to implement our solution seamlessly into their operations. From fields and modules to business processes and workflows, every aspect of Zoho CRM can be molded to meet the needs of your respective business and vertical with ease."
+      ]
+     }
+    ],
+    "img": null,
+    "reverse": true,
+    "muted": false
+   },
+   {
+    "k": "steps",
+    "h2": "Our implementation process",
+    "items": [
+     {
+      "t": "Consult",
+      "p": "Gather Requirements: Conduct a detailed study to understand your IT landscape and business processes. Identify Challenges: Analyze the information obtained to identify challenges, gaps, and redundancies."
+     },
+     {
+      "t": "Build",
+      "p": "Develop a BRD: Collate insights, appropriate solutions, and implementation strategies into a comprehensive business requirements document. Prototyping: Use the BRD to develop a prototype, if needed, of your customized solution."
+     },
+     {
+      "t": "Deploy",
+      "p": "Migration: Deploy the solution through our EBS framework and migrate your data systematically. Onboarding: Equip your in-house trainers with the skills and expertise required to implement your new CRM system."
+     },
+     {
+      "t": "Assist",
+      "p": "Usage Reports: Improve your business processes by analyzing quarterly product usage reports and discussing best practices with your technical account manager. Technical Support: Resolve any of your technical issues with our team of expert support engineers on standby with our support packages."
+     }
+    ]
+   },
+   {
+    "k": "logos",
+    "h2": "Zoho CRM is trusted by global brands",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/Saint-gobain.png",
+      "alt": "Saint-Gobain"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/suzuki.png",
+      "alt": "Suzuki"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_27_Hyatt.png",
+      "alt": "Hyatt"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_28_Blue-star.png",
+      "alt": "Blue Star"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_29_purolite.png",
+      "alt": "Purolite"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_30_Bose.png",
+      "alt": "Bose"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_31_partner-logo-3.png",
+      "alt": "Partner logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_32_partner-logo-4.png",
+      "alt": "Partner logo"
+     }
+    ]
+   },
+   {
+    "k": "split",
+    "items": [
+     {
+      "h2": "End-to-end implementation support",
+      "ps": [
+       "Zoappo is committed to supporting its customers far beyond the point of purchase. Starting with initial contact, our Zoho expert team will gather a list of requirements based on your particular business processes. With that knowledge in hand, the team will build a working prototype, deploy it across your organization, and troubleshoot any issues moving forward. This end-to-end support process reduces the resources required to get your new CRM up and running."
+      ]
+     }
+    ],
+    "img": {
+     "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_33_2910879.png",
+     "alt": "End-to-end implementation support"
+    },
+    "reverse": false,
+    "muted": false
+   },
+   {
+    "k": "cta",
+    "h2": "Get free Zoho consultation tailored to your business",
+    "p": "Streamline sales automation, close more deals and multiply revenue. Reach out now!",
+    "btns": [
+     {
+      "label": "Book Free Expert Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     }
+    ]
+   },
+   {
+    "k": "form",
+    "h2": "Ready to implement Zoho CRM? Call our experts today to book a free consultation.",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "zoho-one": {
+  "path": "/zoho-one/",
+  "title": "Zoho One UAE – All-in-One Business Operating System | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "Zoho One",
+    "h1": "Zoho One UAE – All-in-One Business Operating System for UAE & Middle East",
+    "lead": "Empower your business with Zoho One – the operating system that seamlessly connects all business functions, making organizations more agile and efficient. Boost productivity, enhance customer experiences, and unlock countless possibilities for success.",
+    "btns": [
+     {
+      "label": "Book Free Zoho One Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ],
+    "img": {
+     "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_2_one1.png",
+     "alt": ""
+    }
+   },
+   {
+    "k": "split",
+    "items": [
+     {
+      "h2": "What is Zoho One and Why UAE Businesses Choose It?",
+      "ps": [
+       "Zoho One is a powerful, all-in-one business operating system used by companies across the UAE, Dubai, Abu Dhabi, GCC and Middle East. It combines CRM, finance, HR, marketing, project management, analytics and automation in one unified platform, helping modern businesses streamline operations and boost productivity."
+      ],
+      "btns": [
+       {
+        "label": "Book Free Zoho One Consultation",
+        "href": "https://zcform.com/bzQ70",
+        "ext": true,
+        "primary": true
+       }
+      ]
+     }
+    ],
+    "img": null,
+    "reverse": false,
+    "muted": false
+   },
+   {
+    "k": "logos",
+    "h2": "Trusted by Market Leaders",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_3_Rmit-University.png",
+      "alt": "RMIT University"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_4_IFZA-LOGO-_002_-removebg-preview.png",
+      "alt": "IFZA"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_5_heroes-logo.png",
+      "alt": "Heroes"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_6_IIFL.NS_BIG-f1d6efdb.png",
+      "alt": "IIFL"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2026/10/logo.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "apps",
+    "h2": "Marketing Intelligence",
+    "p": "Unlock a suite of tools including a website builder, A/B testing software, visual analytics, SMS campaigns, email marketing, custom website forms, surveys, live chat with WhatsApp Integration, online events, marketing automation, office suite, team messaging, and project management software.",
+    "items": [
+     {
+      "n": "Marketing",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_7_zeeconvert-resizer.png",
+       "alt": "Zoho Marketing"
+      }
+     },
+     {
+      "n": "Social",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_8_zeeconvert-resizer-1-.png",
+       "alt": "Zoho Social"
+      }
+     },
+     {
+      "n": "Campaigns",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_9_Zoho-campaigns1.png",
+       "alt": "Zoho Campaigns"
+      }
+     },
+     {
+      "n": "Sites",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_10_zoho_sites1.png",
+       "alt": "Zoho Sites"
+      }
+     },
+     {
+      "n": "eCommerce",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_11_zoho-commerce1.png",
+       "alt": "Zoho eCommerce"
+      }
+     }
+    ],
+    "muted": false
+   },
+   {
+    "k": "apps",
+    "h2": "Sales Automation",
+    "p": "Expand your sales across channels with CRM, email, and social media integration. Access everything on your mobile devices for on-the-go business. Define your sales process, leverage business intelligence, effortlessly create quotes, estimates, sales orders, and invoices, and enable digital signatures with ease.",
+    "items": [
+     {
+      "n": "Bookings",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_12_Zoho-Bookingss1.png",
+       "alt": "Zoho Bookings"
+      }
+     },
+     {
+      "n": "Bigin",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_13_zoho-Biginn1.png",
+       "alt": "Zoho Bigin"
+      }
+     },
+     {
+      "n": "CRM",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_14_zoho-CRM-1536x153w61.png",
+       "alt": "Zoho CRM"
+      }
+     }
+    ],
+    "muted": true
+   },
+   {
+    "k": "apps",
+    "h2": "Support & Helpdesk",
+    "p": "Elevate your support operations with tools for email, phone, social media, live chat, self-service portals, remote assistance, process automation, business intelligence, customer happiness, escalation matrix/SLA, artificial intelligence, CRM, and team communication channels.",
+    "items": [
+     {
+      "n": "Desk",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_15_Zoho-Desk1.png",
+       "alt": "Zoho Desk"
+      }
+     },
+     {
+      "n": "Assist",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_16_Zoho-Assist1.png",
+       "alt": "Zoho Assist"
+      }
+     },
+     {
+      "n": "Lens",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_17_Zoho-Lens1.png",
+       "alt": "Zoho Lens"
+      }
+     }
+    ],
+    "muted": false
+   },
+   {
+    "k": "apps",
+    "h2": "HR, Recruit & Payroll",
+    "p": "Streamline your HR processes with our apps for job openings, resume parsing, interview, offer letters, company policies, time tracking, and managing time off. Foster a collaborative office culture with a cloud office suite and internal social network, ensuring a great employee experience!",
+    "items": [
+     {
+      "n": "People",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_18_Zoho-People1.png",
+       "alt": "Zoho People"
+      }
+     },
+     {
+      "n": "Recruit",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_19_Zoho-Recruit1.png",
+       "alt": "Zoho Recruit"
+      }
+     }
+    ],
+    "muted": true
+   },
+   {
+    "k": "apps",
+    "h2": "Finance & Inventory",
+    "p": "Manage your finances effortlessly with tools for financial reporting, bank account connection, asset and liability tracking, estimate and invoice creation, and seamless payment collection. Keep track of payables, expenses, purchase orders, employee mileage through geo-tracking, project-based employee time tracking, and recurring subscriptions.",
+    "items": [
+     {
+      "n": "Payroll",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_20_Payroll1.png",
+       "alt": "Zoho Payroll"
+      }
+     },
+     {
+      "n": "Invoice",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_21_Invoice1.png",
+       "alt": "Zoho Invoice"
+      }
+     },
+     {
+      "n": "Checkout",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_22_Checkout1.png",
+       "alt": "Zoho Checkout"
+      }
+     },
+     {
+      "n": "Expense",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_23_Expense1.png",
+       "alt": "Zoho Expense"
+      }
+     },
+     {
+      "n": "Books",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_24_imresizer-1740251344930.jpg",
+       "alt": "Zoho Books"
+      }
+     }
+    ],
+    "muted": false
+   },
+   {
+    "k": "apps",
+    "h2": "Operations",
+    "p": "Efficiently handle orders, engage in multichannel selling, oversee warehouses, and implement project-based billing with our operation apps. Optimize resource utilization and project management with agile, waterfall, and task boards. Offer customers access to a client portal, online store, and subscription-based billing. Plus, create custom apps tailored to your needs.",
+    "items": [
+     {
+      "n": "Inventory",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_25_Inventory1.png",
+       "alt": "Zoho Inventory"
+      }
+     },
+     {
+      "n": "Billing",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_26_Billing1.png",
+       "alt": "Zoho Billing"
+      }
+     },
+     {
+      "n": "Creator",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_27_Creator1.png",
+       "alt": "Zoho Creator"
+      }
+     }
+    ],
+    "muted": true
+   },
+   {
+    "k": "apps",
+    "h2": "Productivity",
+    "p": "Increase your business productivity by empowering your team with an office suite including writing, spreadsheet, and presentation software. Enhance efficiency with features like digital signatures, note-taking capabilities, and password storage.",
+    "items": [
+     {
+      "n": "Sheet",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_28_Sheet1.png",
+       "alt": "Zoho Sheet"
+      }
+     },
+     {
+      "n": "Notebook",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_29_Notebook1.png",
+       "alt": "Zoho Notebook"
+      }
+     },
+     {
+      "n": "Show",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_30_Show1.png",
+       "alt": "Zoho Show"
+      }
+     },
+     {
+      "n": "Vault",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_31_Vault1.png",
+       "alt": "Zoho Vault"
+      }
+     },
+     {
+      "n": "Sign",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_32_Sign1.png",
+       "alt": "Zoho Sign"
+      }
+     }
+    ],
+    "muted": false
+   },
+   {
+    "k": "apps",
+    "h2": "Collaboration",
+    "p": "Facilitate collaboration on projects, task assignments, idea discussions, and company-wide meetings. Work seamlessly on shared documents, implement upskilling and training programs, and utilize online conferencing and remote working tools.",
+    "items": [
+     {
+      "n": "Connect",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_33_Connect1.png",
+       "alt": "Zoho Connect"
+      }
+     },
+     {
+      "n": "Learn",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_34_Learn1.png",
+       "alt": "Zoho Learn"
+      }
+     },
+     {
+      "n": "Projects",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_35_Projects-1536x15361-1.png",
+       "alt": "Zoho Projects"
+      }
+     },
+     {
+      "n": "WorkDrive",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_36_Workdrive1.png",
+       "alt": "Zoho WorkDrive"
+      }
+     },
+     {
+      "n": "TeamInbox",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_37_Teaminbox1.png",
+       "alt": "Zoho TeamInbox"
+      }
+     }
+    ],
+    "muted": true
+   },
+   {
+    "k": "cta",
+    "h2": "Sign up for Zoho One Free Trial!",
+    "p": "Explore the unmatched power and value of Zoho One – your gateway to 50+ seamlessly integrated apps.",
+    "btns": [
+     {
+      "label": "Sign Up Free for Zoho One",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     }
+    ]
+   },
+   {
+    "k": "split",
+    "items": [
+     {
+      "h2": "Why Zoho One is Ideal for Dubai, Abu Dhabi & GCC Businesses",
+      "ps": [
+       "Experience consistency in usability and design across all Zoho One apps, minimizing the learning curve. Seamless data flow between functionalities ensures smooth operations, covering a wide range of business needs. Both on-premise and cloud options exist. Depending on the size of your business, you can pick either one.",
+       "Zoho One works in a way that all your data, docs, and contacts can easily be retrieved; this is when a unified user interface helps. Apart from being context-aware, it can also save you a lot of time since the data you need is already there when you want it."
+      ]
+     }
+    ],
+    "img": {
+     "src": "https://zoappo.com/wp-content/uploads/2025/12/imgi_38_308f530ef9.png",
+     "alt": "Why Zoho One is Ideal for Dubai, Abu Dhabi & GCC Businesses"
+    },
+    "reverse": true,
+    "muted": false
+   },
+   {
+    "k": "cards",
+    "items": [
+     {
+      "t": "Artificial Intelligence",
+      "p": "Zoho One’s AI assistant, Zia, can help your sales team with predictive sales, and search for things like a customer or a conversation with an employee with full context."
+     },
+     {
+      "t": "Connected Applications",
+      "p": "All-in-one web and mobile apps for sales, marketing, accounting, HRMS, AI, data analytics, e-commerce, custom app development and more."
+     },
+     {
+      "t": "Innovative Services",
+      "p": "Ready to use artificial intelligence, business intelligence, and industry specific solutions and more."
+     },
+     {
+      "t": "Tailoring Tools",
+      "p": "Versatile tools for seamless integration, extension, and custom application creation for a perfect fit."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "form",
+    "h2": "Ready to implement Zoho One? Call our experts today to book a free consultation.",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ },
+ "zoho-people": {
+  "path": "/zoho-people/",
+  "title": "Zoho People HRMS Implementation in UAE | Zoappo",
+  "blocks": [
+   {
+    "k": "hero",
+    "eyebrow": "HRMS",
+    "h1": "Explore Zoho People to enhance employee engagement and satisfaction",
+    "lead": "The world of work is changing rapidly and so should your HR practices. Zoho People is a cloud-based HR software crafted to nurture employees, quickly adapt to changes, and make HR management agile and effective.",
+    "btns": [
+     {
+      "label": "Book Free Expert Consultation",
+      "href": "https://zcform.com/bzQ70",
+      "ext": true,
+      "primary": true
+     },
+     {
+      "label": "Talk to an expert",
+      "href": "#contact-form",
+      "ext": false,
+      "primary": false
+     }
+    ],
+    "img": {
+     "src": "https://zoappo.com/wp-content/uploads/2025/12/Infolytice-Zoho-People-Mobile.png",
+     "alt": ""
+    }
+   },
+   {
+    "k": "chips",
+    "h2": "What you get with Zoho People",
+    "items": [
+     "An employee database that scales",
+     "Efficient employee case management",
+     "Smart HR workflows",
+     "Insightful analytics",
+     "Track attendance with ease",
+     "Schedule shifts effortlessly",
+     "Track days off efficiently",
+     "Convert time to timesheets"
+    ]
+   },
+   {
+    "k": "split",
+    "items": [
+     {
+      "h2": "Optimize your time and attendance",
+      "ps": [
+       "Say goodbye to mundane spreadsheets or rigid systems to manage HR tasks. Get smarter and more efficient software with features designed to free you from administrative work. Spend less time tracking time and days off. Zoho People’s time and attendance system lets you focus on employee productivity while accurately tracking work hours and providing error-free reporting."
+      ]
+     }
+    ],
+    "img": null,
+    "reverse": true,
+    "muted": false
+   },
+   {
+    "k": "logos",
+    "h2": "Trusted by Market Leaders",
+    "p": "With over a decade of experience, serving more than 4500+ organizations, Zoho People has catered to businesses of all shapes and sizes.",
+    "large": false,
+    "items": [
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/images__2_-removebg-preview.png",
+      "alt": "Client logo"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/zomato-logo-white-removebg-preview.png",
+      "alt": "Zomato"
+     },
+     {
+      "src": "https://zoappo.com/wp-content/uploads/2025/12/images__3_-removebg-preview.png",
+      "alt": "Client logo"
+     }
+    ]
+   },
+   {
+    "k": "cards",
+    "items": [
+     {
+      "t": "Enhanced business flexibility",
+      "p": "As your company’s required skills, employee work patterns, and overall operations continue to evolve, Zoho empowers you to adapt seamlessly. With real-time, accurate insights into your global workforce, you can make informed decisions that drive success."
+     },
+     {
+      "t": "Reliability and protection",
+      "p": "At Zoho, trust and customer security are at the core of everything. Powered by its own secure cloud infrastructure and fortified with industry-leading safety protocols, your data is protected around the clock."
+     }
+    ],
+    "muted": false,
+    "icon": true,
+    "image": false,
+    "appcards": false
+   },
+   {
+    "k": "split",
+    "items": [
+     {
+      "h2": "Managing people perfectly with Zoho People",
+      "ps": [
+       "The world of work is evolving fast, and your HR practices should keep up. Zoho People is a cloud-based HR solution designed to empower your workforce, adapt swiftly to change, and enhance HR management with agility and efficiency. Streamline HR operations, retain top talent, and foster a high-performing culture, all while prioritizing the employee experience."
+      ]
+     }
+    ],
+    "img": {
+     "src": "https://zoappo.com/wp-content/uploads/2025/12/Infolytice-Zoho-People-Mobile.png",
+     "alt": "Managing people perfectly with Zoho People"
+    },
+    "reverse": false,
+    "muted": false
+   },
+   {
+    "k": "cards",
+    "h2": "Transform your HR operations, no matter the size or sector of your business",
+    "items": [
+     {
+      "t": "Media and advertising",
+      "p": "Streamline HR processes and boost workforce engagement with an innovative solution.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/zp-marketing.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Information technology",
+      "p": "Address the demands of a dynamic and evolving workforce.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/zp-it.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Finance",
+      "p": "Strategically assess and manage your HR requirements.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/zp-finance.png",
+       "alt": ""
+      }
+     },
+     {
+      "t": "Healthcare",
+      "p": "Streamline HR processes while fostering a supportive and empathetic employee experience.",
+      "img": {
+       "src": "https://zoappo.com/wp-content/uploads/2025/12/zp-healthcare.png",
+       "alt": ""
+      }
+     }
+    ],
+    "muted": false,
+    "icon": false,
+    "image": true,
+    "appcards": false
+   },
+   {
+    "k": "form",
+    "h2": "Talk to a certified Zoho consultant",
+    "p": "Tell us a little about your business and what you’d like to achieve. A certified consultant will get back to you within 24 hours."
+   }
+  ]
+ }
+}

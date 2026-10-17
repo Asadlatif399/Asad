@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zoappo.com/sitemap.xml
